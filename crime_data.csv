@@ -1,0 +1,2171 @@
+Year,City,Crime Type,Total Crimes,Crimes Solved
+1990,New York,Assault,646,580
+1990,New York,Burglary,1299,1014
+1990,New York,Fraud,3373,2961
+1990,New York,Robbery,2460,1284
+1990,New York,Vehicle Theft,4846,3864
+1990,New York,Homicide,1056,611
+1990,New York,Drug Offense,1692,992
+1990,Los Angeles,Assault,2011,996
+1990,Los Angeles,Burglary,1342,1066
+1990,Los Angeles,Fraud,4005,2219
+1990,Los Angeles,Robbery,4705,3681
+1990,Los Angeles,Vehicle Theft,2496,1416
+1990,Los Angeles,Homicide,844,426
+1990,Los Angeles,Drug Offense,1116,628
+1990,Chicago,Assault,564,338
+1990,Chicago,Burglary,3800,2216
+1990,Chicago,Fraud,1177,868
+1990,Chicago,Robbery,3866,3470
+1990,Chicago,Vehicle Theft,4249,3676
+1990,Chicago,Homicide,1141,605
+1990,Chicago,Drug Offense,2025,1567
+1990,Houston,Assault,2282,1568
+1990,Houston,Burglary,4912,3742
+1990,Houston,Fraud,1480,984
+1990,Houston,Robbery,4487,3744
+1990,Houston,Vehicle Theft,1380,1042
+1990,Houston,Homicide,2590,2004
+1990,Houston,Drug Offense,2954,2490
+1990,Philadelphia,Assault,4328,2014
+1990,Philadelphia,Burglary,4142,3592
+1990,Philadelphia,Fraud,808,514
+1990,Philadelphia,Robbery,2687,1996
+1990,Philadelphia,Vehicle Theft,1438,1163
+1990,Philadelphia,Homicide,4515,3626
+1990,Philadelphia,Drug Offense,3086,1780
+1990,Phoenix,Assault,3468,1837
+1990,Phoenix,Burglary,4884,2999
+1990,Phoenix,Fraud,2472,1441
+1990,Phoenix,Robbery,973,820
+1990,Phoenix,Vehicle Theft,3850,2295
+1990,Phoenix,Homicide,4131,3235
+1990,Phoenix,Drug Offense,3714,1780
+1990,San Antonio,Assault,4045,3082
+1990,San Antonio,Burglary,568,295
+1990,San Antonio,Fraud,2520,1091
+1990,San Antonio,Robbery,4184,3538
+1990,San Antonio,Vehicle Theft,5000,4210
+1990,San Antonio,Homicide,3047,1495
+1990,San Antonio,Drug Offense,1795,1148
+1990,San Diego,Assault,1252,1066
+1990,San Diego,Burglary,3693,2501
+1990,San Diego,Fraud,947,842
+1990,San Diego,Robbery,870,772
+1990,San Diego,Vehicle Theft,3233,1652
+1990,San Diego,Homicide,4902,2600
+1990,San Diego,Drug Offense,3198,2158
+1990,Dallas,Assault,530,369
+1990,Dallas,Burglary,1881,958
+1990,Dallas,Fraud,3084,1626
+1990,Dallas,Robbery,3380,1461
+1990,Dallas,Vehicle Theft,2655,1144
+1990,Dallas,Homicide,2013,1198
+1990,Dallas,Drug Offense,4207,2918
+1990,San Jose,Assault,4732,2787
+1990,San Jose,Burglary,3543,2423
+1990,San Jose,Fraud,626,527
+1990,San Jose,Robbery,1956,1439
+1990,San Jose,Vehicle Theft,3136,2198
+1990,San Jose,Homicide,4983,2751
+1990,San Jose,Drug Offense,4624,3156
+1991,New York,Assault,4528,2321
+1991,New York,Burglary,1266,752
+1991,New York,Fraud,2563,1504
+1991,New York,Robbery,2245,1118
+1991,New York,Vehicle Theft,3810,1830
+1991,New York,Homicide,4234,3089
+1991,New York,Drug Offense,2952,2392
+1991,Los Angeles,Assault,2806,1858
+1991,Los Angeles,Burglary,1731,1107
+1991,Los Angeles,Fraud,3923,2244
+1991,Los Angeles,Robbery,3047,1395
+1991,Los Angeles,Vehicle Theft,4709,3619
+1991,Los Angeles,Homicide,3704,3039
+1991,Los Angeles,Drug Offense,2326,1323
+1991,Chicago,Assault,4459,3819
+1991,Chicago,Burglary,747,330
+1991,Chicago,Fraud,4980,4132
+1991,Chicago,Robbery,1879,953
+1991,Chicago,Vehicle Theft,2663,1911
+1991,Chicago,Homicide,1579,759
+1991,Chicago,Drug Offense,3179,2222
+1991,Houston,Assault,2278,1144
+1991,Houston,Burglary,1503,827
+1991,Houston,Fraud,2270,1611
+1991,Houston,Robbery,4205,3611
+1991,Houston,Vehicle Theft,1338,801
+1991,Houston,Homicide,4055,2437
+1991,Houston,Drug Offense,2447,1280
+1991,Philadelphia,Assault,2427,1710
+1991,Philadelphia,Burglary,1151,1030
+1991,Philadelphia,Fraud,4463,2666
+1991,Philadelphia,Robbery,554,229
+1991,Philadelphia,Vehicle Theft,900,402
+1991,Philadelphia,Homicide,2472,1336
+1991,Philadelphia,Drug Offense,2766,1822
+1991,Phoenix,Assault,688,457
+1991,Phoenix,Burglary,3978,2424
+1991,Phoenix,Fraud,4057,1643
+1991,Phoenix,Robbery,1009,554
+1991,Phoenix,Vehicle Theft,2112,1290
+1991,Phoenix,Homicide,1038,911
+1991,Phoenix,Drug Offense,4729,3775
+1991,San Antonio,Assault,4767,2135
+1991,San Antonio,Burglary,786,441
+1991,San Antonio,Fraud,4371,2975
+1991,San Antonio,Robbery,2214,1565
+1991,San Antonio,Vehicle Theft,3705,2719
+1991,San Antonio,Homicide,1786,1307
+1991,San Antonio,Drug Offense,2090,1264
+1991,San Diego,Assault,3791,2651
+1991,San Diego,Burglary,3324,1801
+1991,San Diego,Fraud,3944,2234
+1991,San Diego,Robbery,1010,456
+1991,San Diego,Vehicle Theft,3421,1732
+1991,San Diego,Homicide,1754,1448
+1991,San Diego,Drug Offense,4766,3792
+1991,Dallas,Assault,4167,1806
+1991,Dallas,Burglary,3747,2538
+1991,Dallas,Fraud,4948,2718
+1991,Dallas,Robbery,3250,2713
+1991,Dallas,Vehicle Theft,3935,3166
+1991,Dallas,Homicide,2540,1987
+1991,Dallas,Drug Offense,4919,2593
+1991,San Jose,Assault,4508,2264
+1991,San Jose,Burglary,2583,1063
+1991,San Jose,Fraud,4917,2362
+1991,San Jose,Robbery,1588,1264
+1991,San Jose,Vehicle Theft,956,550
+1991,San Jose,Homicide,1614,909
+1991,San Jose,Drug Offense,2645,1318
+1992,New York,Assault,3527,1938
+1992,New York,Burglary,2091,1347
+1992,New York,Fraud,4289,3426
+1992,New York,Robbery,1411,1235
+1992,New York,Vehicle Theft,4595,2722
+1992,New York,Homicide,1812,1048
+1992,New York,Drug Offense,612,261
+1992,Los Angeles,Assault,2863,2496
+1992,Los Angeles,Burglary,3491,2876
+1992,Los Angeles,Fraud,728,382
+1992,Los Angeles,Robbery,938,467
+1992,Los Angeles,Vehicle Theft,3955,1961
+1992,Los Angeles,Homicide,4976,2990
+1992,Los Angeles,Drug Offense,2553,1947
+1992,Chicago,Assault,1802,1032
+1992,Chicago,Burglary,4127,2106
+1992,Chicago,Fraud,3610,1931
+1992,Chicago,Robbery,4226,3221
+1992,Chicago,Vehicle Theft,4522,3672
+1992,Chicago,Homicide,918,491
+1992,Chicago,Drug Offense,1761,723
+1992,Houston,Assault,3869,3474
+1992,Houston,Burglary,1931,1286
+1992,Houston,Fraud,1739,1126
+1992,Houston,Robbery,3042,1518
+1992,Houston,Vehicle Theft,1583,1271
+1992,Houston,Homicide,4864,4065
+1992,Houston,Drug Offense,2299,1665
+1992,Philadelphia,Assault,1490,1188
+1992,Philadelphia,Burglary,2147,1623
+1992,Philadelphia,Fraud,2378,1050
+1992,Philadelphia,Robbery,3688,2712
+1992,Philadelphia,Vehicle Theft,3687,1514
+1992,Philadelphia,Homicide,2023,1752
+1992,Philadelphia,Drug Offense,765,464
+1992,Phoenix,Assault,3006,1635
+1992,Phoenix,Burglary,1100,617
+1992,Phoenix,Fraud,3159,2224
+1992,Phoenix,Robbery,2576,2023
+1992,Phoenix,Vehicle Theft,3671,1769
+1992,Phoenix,Homicide,1138,563
+1992,Phoenix,Drug Offense,4799,2523
+1992,San Antonio,Assault,4056,2402
+1992,San Antonio,Burglary,4001,3468
+1992,San Antonio,Fraud,1413,1240
+1992,San Antonio,Robbery,882,640
+1992,San Antonio,Vehicle Theft,4966,3761
+1992,San Antonio,Homicide,4787,4285
+1992,San Antonio,Drug Offense,1443,1115
+1992,San Diego,Assault,1263,949
+1992,San Diego,Burglary,4450,3600
+1992,San Diego,Fraud,2226,977
+1992,San Diego,Robbery,831,604
+1992,San Diego,Vehicle Theft,3809,2306
+1992,San Diego,Homicide,3697,2105
+1992,San Diego,Drug Offense,954,698
+1992,Dallas,Assault,2944,2220
+1992,Dallas,Burglary,1742,1128
+1992,Dallas,Fraud,2006,1346
+1992,Dallas,Robbery,1224,970
+1992,Dallas,Vehicle Theft,2559,1582
+1992,Dallas,Homicide,3009,1883
+1992,Dallas,Drug Offense,3035,1510
+1992,San Jose,Assault,3616,1917
+1992,San Jose,Burglary,2668,1347
+1992,San Jose,Fraud,833,496
+1992,San Jose,Robbery,584,392
+1992,San Jose,Vehicle Theft,3776,2164
+1992,San Jose,Homicide,1347,836
+1992,San Jose,Drug Offense,4495,3078
+1993,New York,Assault,2504,1819
+1993,New York,Burglary,973,738
+1993,New York,Fraud,3998,2492
+1993,New York,Robbery,4888,3075
+1993,New York,Vehicle Theft,1606,1353
+1993,New York,Homicide,4965,2918
+1993,New York,Drug Offense,1355,1019
+1993,Los Angeles,Assault,2126,1164
+1993,Los Angeles,Burglary,4041,3580
+1993,Los Angeles,Fraud,675,446
+1993,Los Angeles,Robbery,1978,1471
+1993,Los Angeles,Vehicle Theft,1953,1349
+1993,Los Angeles,Homicide,1176,471
+1993,Los Angeles,Drug Offense,4883,4224
+1993,Chicago,Assault,4917,3753
+1993,Chicago,Burglary,2750,1752
+1993,Chicago,Fraud,3862,2337
+1993,Chicago,Robbery,2930,1316
+1993,Chicago,Vehicle Theft,2008,1169
+1993,Chicago,Homicide,2914,2190
+1993,Chicago,Drug Offense,4601,2034
+1993,Houston,Assault,1096,612
+1993,Houston,Burglary,1940,1619
+1993,Houston,Fraud,3471,1426
+1993,Houston,Robbery,646,553
+1993,Houston,Vehicle Theft,4699,3352
+1993,Houston,Homicide,1116,967
+1993,Houston,Drug Offense,503,327
+1993,Philadelphia,Assault,976,549
+1993,Philadelphia,Burglary,3933,3218
+1993,Philadelphia,Fraud,1553,891
+1993,Philadelphia,Robbery,3816,3342
+1993,Philadelphia,Vehicle Theft,3494,1409
+1993,Philadelphia,Homicide,4081,2917
+1993,Philadelphia,Drug Offense,3721,2466
+1993,Phoenix,Assault,4483,3235
+1993,Phoenix,Burglary,4833,4151
+1993,Phoenix,Fraud,4205,2674
+1993,Phoenix,Robbery,3272,2348
+1993,Phoenix,Vehicle Theft,3565,2610
+1993,Phoenix,Homicide,3920,2708
+1993,Phoenix,Drug Offense,911,582
+1993,San Antonio,Assault,3282,2500
+1993,San Antonio,Burglary,4340,2884
+1993,San Antonio,Fraud,4795,3404
+1993,San Antonio,Robbery,1462,1038
+1993,San Antonio,Vehicle Theft,1703,913
+1993,San Antonio,Homicide,1997,858
+1993,San Antonio,Drug Offense,2345,1417
+1993,San Diego,Assault,2304,1974
+1993,San Diego,Burglary,3919,2679
+1993,San Diego,Fraud,3584,2359
+1993,San Diego,Robbery,3022,2441
+1993,San Diego,Vehicle Theft,3494,2500
+1993,San Diego,Homicide,2055,1169
+1993,San Diego,Drug Offense,3707,3124
+1993,Dallas,Assault,3756,2308
+1993,Dallas,Burglary,1748,1540
+1993,Dallas,Fraud,572,266
+1993,Dallas,Robbery,3962,2275
+1993,Dallas,Vehicle Theft,4156,3563
+1993,Dallas,Homicide,1300,582
+1993,Dallas,Drug Offense,2141,937
+1993,San Jose,Assault,4136,2386
+1993,San Jose,Burglary,1688,756
+1993,San Jose,Fraud,2448,2169
+1993,San Jose,Robbery,3345,2348
+1993,San Jose,Vehicle Theft,3890,2229
+1993,San Jose,Homicide,4272,2890
+1993,San Jose,Drug Offense,1395,1227
+1994,New York,Assault,1770,794
+1994,New York,Burglary,757,591
+1994,New York,Fraud,4077,2239
+1994,New York,Robbery,3661,1516
+1994,New York,Vehicle Theft,717,540
+1994,New York,Homicide,3155,2707
+1994,New York,Drug Offense,2472,1535
+1994,Los Angeles,Assault,643,265
+1994,Los Angeles,Burglary,4538,2748
+1994,Los Angeles,Fraud,2574,1397
+1994,Los Angeles,Robbery,1081,957
+1994,Los Angeles,Vehicle Theft,2187,1767
+1994,Los Angeles,Homicide,1558,652
+1994,Los Angeles,Drug Offense,1537,1247
+1994,Chicago,Assault,4182,2538
+1994,Chicago,Burglary,2786,1178
+1994,Chicago,Fraud,1826,1015
+1994,Chicago,Robbery,3098,1704
+1994,Chicago,Vehicle Theft,2059,1175
+1994,Chicago,Homicide,2379,1748
+1994,Chicago,Drug Offense,3719,3012
+1994,Houston,Assault,3962,2911
+1994,Houston,Burglary,2541,1857
+1994,Houston,Fraud,2693,1087
+1994,Houston,Robbery,2245,1500
+1994,Houston,Vehicle Theft,1828,1149
+1994,Houston,Homicide,989,411
+1994,Houston,Drug Offense,1160,933
+1994,Philadelphia,Assault,4975,4224
+1994,Philadelphia,Burglary,3889,2564
+1994,Philadelphia,Fraud,1854,1421
+1994,Philadelphia,Robbery,2642,1818
+1994,Philadelphia,Vehicle Theft,4324,3260
+1994,Philadelphia,Homicide,2136,1343
+1994,Philadelphia,Drug Offense,2112,1656
+1994,Phoenix,Assault,613,497
+1994,Phoenix,Burglary,4891,4214
+1994,Phoenix,Fraud,2618,1341
+1994,Phoenix,Robbery,1724,1496
+1994,Phoenix,Vehicle Theft,1138,714
+1994,Phoenix,Homicide,3610,1917
+1994,Phoenix,Drug Offense,3360,1449
+1994,San Antonio,Assault,2645,1238
+1994,San Antonio,Burglary,3187,2580
+1994,San Antonio,Fraud,647,368
+1994,San Antonio,Robbery,2814,1158
+1994,San Antonio,Vehicle Theft,3067,1789
+1994,San Antonio,Homicide,4050,1955
+1994,San Antonio,Drug Offense,3688,1977
+1994,San Diego,Assault,1618,1439
+1994,San Diego,Burglary,2112,1168
+1994,San Diego,Fraud,553,496
+1994,San Diego,Robbery,1356,1198
+1994,San Diego,Vehicle Theft,1149,714
+1994,San Diego,Homicide,682,357
+1994,San Diego,Drug Offense,569,328
+1994,Dallas,Assault,1166,475
+1994,Dallas,Burglary,3126,1692
+1994,Dallas,Fraud,2094,1121
+1994,Dallas,Robbery,3419,2637
+1994,Dallas,Vehicle Theft,1635,1357
+1994,Dallas,Homicide,4419,3675
+1994,Dallas,Drug Offense,1052,711
+1994,San Jose,Assault,2866,2338
+1994,San Jose,Burglary,3806,1547
+1994,San Jose,Fraud,1062,574
+1994,San Jose,Robbery,721,416
+1994,San Jose,Vehicle Theft,629,491
+1994,San Jose,Homicide,744,418
+1994,San Jose,Drug Offense,1560,1024
+1995,New York,Assault,1982,1127
+1995,New York,Burglary,1602,843
+1995,New York,Fraud,1839,1242
+1995,New York,Robbery,4681,2610
+1995,New York,Vehicle Theft,4742,3687
+1995,New York,Homicide,2166,871
+1995,New York,Drug Offense,1531,1167
+1995,Los Angeles,Assault,2528,2121
+1995,Los Angeles,Burglary,2304,1471
+1995,Los Angeles,Fraud,2133,1597
+1995,Los Angeles,Robbery,3957,3236
+1995,Los Angeles,Vehicle Theft,3731,2336
+1995,Los Angeles,Homicide,3834,1676
+1995,Los Angeles,Drug Offense,2231,1159
+1995,Chicago,Assault,3451,2949
+1995,Chicago,Burglary,4949,4104
+1995,Chicago,Fraud,2546,1899
+1995,Chicago,Robbery,2914,1175
+1995,Chicago,Vehicle Theft,2510,1955
+1995,Chicago,Homicide,2536,2121
+1995,Chicago,Drug Offense,1915,766
+1995,Houston,Assault,2370,1814
+1995,Houston,Burglary,2966,2622
+1995,Houston,Fraud,1825,1628
+1995,Houston,Robbery,3223,2643
+1995,Houston,Vehicle Theft,1204,639
+1995,Houston,Homicide,4631,4106
+1995,Houston,Drug Offense,3365,2939
+1995,Philadelphia,Assault,2472,2182
+1995,Philadelphia,Burglary,4028,2318
+1995,Philadelphia,Fraud,3655,3028
+1995,Philadelphia,Robbery,3848,3030
+1995,Philadelphia,Vehicle Theft,3809,2658
+1995,Philadelphia,Homicide,3196,2487
+1995,Philadelphia,Drug Offense,1946,1448
+1995,Phoenix,Assault,3710,2651
+1995,Phoenix,Burglary,3780,2087
+1995,Phoenix,Fraud,4662,3385
+1995,Phoenix,Robbery,2187,1108
+1995,Phoenix,Vehicle Theft,4802,2338
+1995,Phoenix,Homicide,4301,3130
+1995,Phoenix,Drug Offense,1474,953
+1995,San Antonio,Assault,4876,3419
+1995,San Antonio,Burglary,2843,2048
+1995,San Antonio,Fraud,3584,1514
+1995,San Antonio,Robbery,3635,2381
+1995,San Antonio,Vehicle Theft,4319,2619
+1995,San Antonio,Homicide,1222,543
+1995,San Antonio,Drug Offense,4993,2127
+1995,San Diego,Assault,1069,641
+1995,San Diego,Burglary,3523,3020
+1995,San Diego,Fraud,1425,1001
+1995,San Diego,Robbery,867,542
+1995,San Diego,Vehicle Theft,3894,2856
+1995,San Diego,Homicide,3986,2499
+1995,San Diego,Drug Offense,4217,3628
+1995,Dallas,Assault,2464,1379
+1995,Dallas,Burglary,2722,2149
+1995,Dallas,Fraud,4684,3639
+1995,Dallas,Robbery,3698,3090
+1995,Dallas,Vehicle Theft,1125,881
+1995,Dallas,Homicide,2476,1279
+1995,Dallas,Drug Offense,4510,2577
+1995,San Jose,Assault,2394,1336
+1995,San Jose,Burglary,3672,2633
+1995,San Jose,Fraud,3179,1657
+1995,San Jose,Robbery,1896,964
+1995,San Jose,Vehicle Theft,1740,1332
+1995,San Jose,Homicide,2994,1988
+1995,San Jose,Drug Offense,1017,545
+1996,New York,Assault,2224,1275
+1996,New York,Burglary,1806,1405
+1996,New York,Fraud,2341,1040
+1996,New York,Robbery,3690,3062
+1996,New York,Vehicle Theft,1012,646
+1996,New York,Homicide,619,495
+1996,New York,Drug Offense,3526,1722
+1996,Los Angeles,Assault,3122,1975
+1996,Los Angeles,Burglary,3237,2661
+1996,Los Angeles,Fraud,832,566
+1996,Los Angeles,Robbery,3131,2626
+1996,Los Angeles,Vehicle Theft,2185,1304
+1996,Los Angeles,Homicide,4035,3238
+1996,Los Angeles,Drug Offense,3278,1924
+1996,Chicago,Assault,2111,1714
+1996,Chicago,Burglary,3831,2485
+1996,Chicago,Fraud,2030,878
+1996,Chicago,Robbery,2936,1750
+1996,Chicago,Vehicle Theft,764,606
+1996,Chicago,Homicide,1786,1138
+1996,Chicago,Drug Offense,1224,664
+1996,Houston,Assault,3494,2240
+1996,Houston,Burglary,2879,1875
+1996,Houston,Fraud,3952,2941
+1996,Houston,Robbery,4228,3551
+1996,Houston,Vehicle Theft,564,289
+1996,Houston,Homicide,2574,2293
+1996,Houston,Drug Offense,3738,3236
+1996,Philadelphia,Assault,2880,1998
+1996,Philadelphia,Burglary,1340,1156
+1996,Philadelphia,Fraud,2257,1403
+1996,Philadelphia,Robbery,693,308
+1996,Philadelphia,Vehicle Theft,3218,2647
+1996,Philadelphia,Homicide,2100,1117
+1996,Philadelphia,Drug Offense,2686,1396
+1996,Phoenix,Assault,1004,527
+1996,Phoenix,Burglary,4521,3683
+1996,Phoenix,Fraud,701,531
+1996,Phoenix,Robbery,2957,1614
+1996,Phoenix,Vehicle Theft,3181,1373
+1996,Phoenix,Homicide,2221,899
+1996,Phoenix,Drug Offense,847,367
+1996,San Antonio,Assault,1395,586
+1996,San Antonio,Burglary,4262,3422
+1996,San Antonio,Fraud,2019,1675
+1996,San Antonio,Robbery,4400,3120
+1996,San Antonio,Vehicle Theft,1582,1093
+1996,San Antonio,Homicide,2824,1664
+1996,San Antonio,Drug Offense,2107,852
+1996,San Diego,Assault,2351,1283
+1996,San Diego,Burglary,3431,3019
+1996,San Diego,Fraud,3155,2532
+1996,San Diego,Robbery,4351,2441
+1996,San Diego,Vehicle Theft,1644,748
+1996,San Diego,Homicide,613,381
+1996,San Diego,Drug Offense,3001,2577
+1996,Dallas,Assault,1133,987
+1996,Dallas,Burglary,987,774
+1996,Dallas,Fraud,2411,1620
+1996,Dallas,Robbery,719,643
+1996,Dallas,Vehicle Theft,2285,1675
+1996,Dallas,Homicide,788,631
+1996,Dallas,Drug Offense,2016,1503
+1996,San Jose,Assault,4960,4190
+1996,San Jose,Burglary,1173,664
+1996,San Jose,Fraud,4748,1957
+1996,San Jose,Robbery,1202,535
+1996,San Jose,Vehicle Theft,3346,2229
+1996,San Jose,Homicide,2454,1751
+1996,San Jose,Drug Offense,3866,2605
+1997,New York,Assault,1809,1009
+1997,New York,Burglary,3619,2290
+1997,New York,Fraud,1988,1295
+1997,New York,Robbery,2452,1513
+1997,New York,Vehicle Theft,915,691
+1997,New York,Homicide,1495,611
+1997,New York,Drug Offense,3965,2179
+1997,Los Angeles,Assault,3999,1635
+1997,Los Angeles,Burglary,2491,1068
+1997,Los Angeles,Fraud,977,393
+1997,Los Angeles,Robbery,2027,1050
+1997,Los Angeles,Vehicle Theft,3849,3428
+1997,Los Angeles,Homicide,1656,1357
+1997,Los Angeles,Drug Offense,3043,2609
+1997,Chicago,Assault,3832,1825
+1997,Chicago,Burglary,2215,963
+1997,Chicago,Fraud,1932,1659
+1997,Chicago,Robbery,1642,1466
+1997,Chicago,Vehicle Theft,2018,1253
+1997,Chicago,Homicide,2964,1354
+1997,Chicago,Drug Offense,1549,813
+1997,Houston,Assault,4691,3730
+1997,Houston,Burglary,1713,1323
+1997,Houston,Fraud,3523,2620
+1997,Houston,Robbery,2131,1340
+1997,Houston,Vehicle Theft,549,324
+1997,Houston,Homicide,1165,487
+1997,Houston,Drug Offense,3407,1643
+1997,Philadelphia,Assault,4419,2050
+1997,Philadelphia,Burglary,2223,1027
+1997,Philadelphia,Fraud,4684,3896
+1997,Philadelphia,Robbery,3250,2240
+1997,Philadelphia,Vehicle Theft,2042,1375
+1997,Philadelphia,Homicide,3056,2674
+1997,Philadelphia,Drug Offense,2483,1063
+1997,Phoenix,Assault,4837,3309
+1997,Phoenix,Burglary,1178,805
+1997,Phoenix,Fraud,3780,2753
+1997,Phoenix,Robbery,1177,869
+1997,Phoenix,Vehicle Theft,1747,1303
+1997,Phoenix,Homicide,2598,1778
+1997,Phoenix,Drug Offense,1888,1001
+1997,San Antonio,Assault,3597,2966
+1997,San Antonio,Burglary,2693,2318
+1997,San Antonio,Fraud,1600,1082
+1997,San Antonio,Robbery,3827,1602
+1997,San Antonio,Vehicle Theft,638,366
+1997,San Antonio,Homicide,2879,1816
+1997,San Antonio,Drug Offense,2501,1575
+1997,San Diego,Assault,3872,3367
+1997,San Diego,Burglary,3517,3040
+1997,San Diego,Fraud,1898,1251
+1997,San Diego,Robbery,1046,700
+1997,San Diego,Vehicle Theft,2549,2273
+1997,San Diego,Homicide,2814,1443
+1997,San Diego,Drug Offense,3084,1849
+1997,Dallas,Assault,3675,2515
+1997,Dallas,Burglary,4234,2652
+1997,Dallas,Fraud,3206,1830
+1997,Dallas,Robbery,1335,1117
+1997,Dallas,Vehicle Theft,522,313
+1997,Dallas,Homicide,2985,1823
+1997,Dallas,Drug Offense,4346,3024
+1997,San Jose,Assault,2529,1896
+1997,San Jose,Burglary,2359,1503
+1997,San Jose,Fraud,4105,1772
+1997,San Jose,Robbery,1993,1090
+1997,San Jose,Vehicle Theft,3307,2028
+1997,San Jose,Homicide,2784,1507
+1997,San Jose,Drug Offense,2266,910
+1998,New York,Assault,4519,2318
+1998,New York,Burglary,4927,3267
+1998,New York,Fraud,4052,2414
+1998,New York,Robbery,834,543
+1998,New York,Vehicle Theft,1686,1191
+1998,New York,Homicide,1814,1588
+1998,New York,Drug Offense,3628,3039
+1998,Los Angeles,Assault,2279,1998
+1998,Los Angeles,Burglary,3087,1710
+1998,Los Angeles,Fraud,3721,1927
+1998,Los Angeles,Robbery,4497,1835
+1998,Los Angeles,Vehicle Theft,1003,828
+1998,Los Angeles,Homicide,1004,751
+1998,Los Angeles,Drug Offense,2734,2072
+1998,Chicago,Assault,2839,1184
+1998,Chicago,Burglary,4091,3665
+1998,Chicago,Fraud,1045,687
+1998,Chicago,Robbery,2941,1741
+1998,Chicago,Vehicle Theft,2872,2178
+1998,Chicago,Homicide,2316,2083
+1998,Chicago,Drug Offense,3636,2928
+1998,Houston,Assault,2936,2542
+1998,Houston,Burglary,2249,1308
+1998,Houston,Fraud,4243,2802
+1998,Houston,Robbery,2523,1980
+1998,Houston,Vehicle Theft,1122,463
+1998,Houston,Homicide,2662,1232
+1998,Houston,Drug Offense,4649,3321
+1998,Philadelphia,Assault,3967,2897
+1998,Philadelphia,Burglary,2151,1732
+1998,Philadelphia,Fraud,1070,729
+1998,Philadelphia,Robbery,4103,2675
+1998,Philadelphia,Vehicle Theft,773,600
+1998,Philadelphia,Homicide,2058,1496
+1998,Philadelphia,Drug Offense,2300,1238
+1998,Phoenix,Assault,765,670
+1998,Phoenix,Burglary,2104,1497
+1998,Phoenix,Fraud,1771,1158
+1998,Phoenix,Robbery,4605,2108
+1998,Phoenix,Vehicle Theft,2440,1150
+1998,Phoenix,Homicide,4048,2306
+1998,Phoenix,Drug Offense,2476,1262
+1998,San Antonio,Assault,3501,1437
+1998,San Antonio,Burglary,4422,2089
+1998,San Antonio,Fraud,1178,811
+1998,San Antonio,Robbery,1598,1167
+1998,San Antonio,Vehicle Theft,4292,3591
+1998,San Antonio,Homicide,3793,2733
+1998,San Antonio,Drug Offense,3525,2652
+1998,San Diego,Assault,688,347
+1998,San Diego,Burglary,3468,1554
+1998,San Diego,Fraud,615,247
+1998,San Diego,Robbery,2641,1280
+1998,San Diego,Vehicle Theft,3361,2332
+1998,San Diego,Homicide,4518,3710
+1998,San Diego,Drug Offense,617,266
+1998,Dallas,Assault,558,371
+1998,Dallas,Burglary,4621,3319
+1998,Dallas,Fraud,4408,3244
+1998,Dallas,Robbery,2048,1485
+1998,Dallas,Vehicle Theft,2241,1590
+1998,Dallas,Homicide,3889,2727
+1998,Dallas,Drug Offense,4547,3130
+1998,San Jose,Assault,4529,2510
+1998,San Jose,Burglary,4809,3002
+1998,San Jose,Fraud,694,351
+1998,San Jose,Robbery,1224,1019
+1998,San Jose,Vehicle Theft,1460,801
+1998,San Jose,Homicide,1292,792
+1998,San Jose,Drug Offense,2431,1053
+1999,New York,Assault,742,612
+1999,New York,Burglary,1637,830
+1999,New York,Fraud,1159,625
+1999,New York,Robbery,3379,2157
+1999,New York,Vehicle Theft,4316,2173
+1999,New York,Homicide,4188,3675
+1999,New York,Drug Offense,3884,2984
+1999,Los Angeles,Assault,1274,845
+1999,Los Angeles,Burglary,4725,2746
+1999,Los Angeles,Fraud,2923,2342
+1999,Los Angeles,Robbery,1358,808
+1999,Los Angeles,Vehicle Theft,4184,1839
+1999,Los Angeles,Homicide,1472,725
+1999,Los Angeles,Drug Offense,659,381
+1999,Chicago,Assault,2187,1667
+1999,Chicago,Burglary,699,584
+1999,Chicago,Fraud,2129,1037
+1999,Chicago,Robbery,506,212
+1999,Chicago,Vehicle Theft,3074,1418
+1999,Chicago,Homicide,1427,1115
+1999,Chicago,Drug Offense,1672,906
+1999,Houston,Assault,1260,1046
+1999,Houston,Burglary,500,315
+1999,Houston,Fraud,2131,1028
+1999,Houston,Robbery,4939,3466
+1999,Houston,Vehicle Theft,1188,1011
+1999,Houston,Homicide,547,375
+1999,Houston,Drug Offense,1240,929
+1999,Philadelphia,Assault,4422,1818
+1999,Philadelphia,Burglary,3404,2916
+1999,Philadelphia,Fraud,2043,1327
+1999,Philadelphia,Robbery,1857,1064
+1999,Philadelphia,Vehicle Theft,2186,1919
+1999,Philadelphia,Homicide,3924,2956
+1999,Philadelphia,Drug Offense,3824,2462
+1999,Phoenix,Assault,4323,2989
+1999,Phoenix,Burglary,1264,955
+1999,Phoenix,Fraud,2891,2464
+1999,Phoenix,Robbery,1844,979
+1999,Phoenix,Vehicle Theft,4035,3618
+1999,Phoenix,Homicide,778,604
+1999,Phoenix,Drug Offense,3321,2067
+1999,San Antonio,Assault,1187,603
+1999,San Antonio,Burglary,1417,1246
+1999,San Antonio,Fraud,3472,2579
+1999,San Antonio,Robbery,1300,682
+1999,San Antonio,Vehicle Theft,2145,1255
+1999,San Antonio,Homicide,1195,697
+1999,San Antonio,Drug Offense,3427,2171
+1999,San Diego,Assault,2310,1698
+1999,San Diego,Burglary,4537,2820
+1999,San Diego,Fraud,4719,2110
+1999,San Diego,Robbery,1600,988
+1999,San Diego,Vehicle Theft,2878,2112
+1999,San Diego,Homicide,2163,1538
+1999,San Diego,Drug Offense,4252,2131
+1999,Dallas,Assault,4551,2979
+1999,Dallas,Burglary,3740,1952
+1999,Dallas,Fraud,4394,3713
+1999,Dallas,Robbery,1897,792
+1999,Dallas,Vehicle Theft,2358,2034
+1999,Dallas,Homicide,2203,1719
+1999,Dallas,Drug Offense,3755,3318
+1999,San Jose,Assault,2493,1707
+1999,San Jose,Burglary,2332,1287
+1999,San Jose,Fraud,812,573
+1999,San Jose,Robbery,1494,1198
+1999,San Jose,Vehicle Theft,1415,641
+1999,San Jose,Homicide,1491,1265
+1999,San Jose,Drug Offense,1580,668
+2000,New York,Assault,4575,2022
+2000,New York,Burglary,4629,2865
+2000,New York,Fraud,3596,2124
+2000,New York,Robbery,2310,1946
+2000,New York,Vehicle Theft,2601,1945
+2000,New York,Homicide,4570,3167
+2000,New York,Drug Offense,598,468
+2000,Los Angeles,Assault,3312,1824
+2000,Los Angeles,Burglary,4249,3506
+2000,Los Angeles,Fraud,1663,793
+2000,Los Angeles,Robbery,4157,3340
+2000,Los Angeles,Vehicle Theft,2497,2110
+2000,Los Angeles,Homicide,3060,2395
+2000,Los Angeles,Drug Offense,4366,2328
+2000,Chicago,Assault,3290,2679
+2000,Chicago,Burglary,1932,1431
+2000,Chicago,Fraud,657,573
+2000,Chicago,Robbery,2472,1983
+2000,Chicago,Vehicle Theft,4339,2475
+2000,Chicago,Homicide,1903,960
+2000,Chicago,Drug Offense,2597,2088
+2000,Houston,Assault,2943,2505
+2000,Houston,Burglary,3129,1695
+2000,Houston,Fraud,2161,922
+2000,Houston,Robbery,3012,2192
+2000,Houston,Vehicle Theft,888,549
+2000,Houston,Homicide,2635,2059
+2000,Houston,Drug Offense,2443,2096
+2000,Philadelphia,Assault,2223,1832
+2000,Philadelphia,Burglary,3254,2602
+2000,Philadelphia,Fraud,1732,1195
+2000,Philadelphia,Robbery,2265,1409
+2000,Philadelphia,Vehicle Theft,556,336
+2000,Philadelphia,Homicide,4783,3316
+2000,Philadelphia,Drug Offense,3294,2481
+2000,Phoenix,Assault,3536,2800
+2000,Phoenix,Burglary,2643,2139
+2000,Phoenix,Fraud,3563,1851
+2000,Phoenix,Robbery,3484,1656
+2000,Phoenix,Vehicle Theft,1225,537
+2000,Phoenix,Homicide,4745,3755
+2000,Phoenix,Drug Offense,4211,1787
+2000,San Antonio,Assault,1146,480
+2000,San Antonio,Burglary,3598,2679
+2000,San Antonio,Fraud,4244,2371
+2000,San Antonio,Robbery,3353,1970
+2000,San Antonio,Vehicle Theft,4223,2603
+2000,San Antonio,Homicide,844,402
+2000,San Antonio,Drug Offense,4130,3569
+2000,San Diego,Assault,2479,2095
+2000,San Diego,Burglary,3670,1888
+2000,San Diego,Fraud,4076,2430
+2000,San Diego,Robbery,4730,2102
+2000,San Diego,Vehicle Theft,4326,3875
+2000,San Diego,Homicide,2228,1937
+2000,San Diego,Drug Offense,898,751
+2000,Dallas,Assault,3222,2256
+2000,Dallas,Burglary,2622,1204
+2000,Dallas,Fraud,2110,1423
+2000,Dallas,Robbery,3224,1649
+2000,Dallas,Vehicle Theft,3153,2562
+2000,Dallas,Homicide,912,439
+2000,Dallas,Drug Offense,4763,3152
+2000,San Jose,Assault,3918,2245
+2000,San Jose,Burglary,2750,1323
+2000,San Jose,Fraud,4696,3605
+2000,San Jose,Robbery,2461,1380
+2000,San Jose,Vehicle Theft,4544,3837
+2000,San Jose,Homicide,4507,3001
+2000,San Jose,Drug Offense,2040,1219
+2001,New York,Assault,1748,1472
+2001,New York,Burglary,3735,3278
+2001,New York,Fraud,3674,2124
+2001,New York,Robbery,3876,1775
+2001,New York,Vehicle Theft,3577,1605
+2001,New York,Homicide,1764,1121
+2001,New York,Drug Offense,1594,967
+2001,Los Angeles,Assault,4705,2989
+2001,Los Angeles,Burglary,2098,1171
+2001,Los Angeles,Fraud,3144,1494
+2001,Los Angeles,Robbery,1270,823
+2001,Los Angeles,Vehicle Theft,1082,511
+2001,Los Angeles,Homicide,2194,1576
+2001,Los Angeles,Drug Offense,4877,3291
+2001,Chicago,Assault,4762,4146
+2001,Chicago,Burglary,4322,3047
+2001,Chicago,Fraud,3150,2351
+2001,Chicago,Robbery,4856,2702
+2001,Chicago,Vehicle Theft,765,560
+2001,Chicago,Homicide,2990,2009
+2001,Chicago,Drug Offense,3811,2756
+2001,Houston,Assault,4689,4206
+2001,Houston,Burglary,4527,2739
+2001,Houston,Fraud,2270,1165
+2001,Houston,Robbery,1467,708
+2001,Houston,Vehicle Theft,4205,3621
+2001,Houston,Homicide,4089,3034
+2001,Houston,Drug Offense,650,304
+2001,Philadelphia,Assault,1273,613
+2001,Philadelphia,Burglary,1045,747
+2001,Philadelphia,Fraud,3083,2107
+2001,Philadelphia,Robbery,3605,3126
+2001,Philadelphia,Vehicle Theft,545,298
+2001,Philadelphia,Homicide,4469,2111
+2001,Philadelphia,Drug Offense,3677,2200
+2001,Phoenix,Assault,4181,3626
+2001,Phoenix,Burglary,1409,1188
+2001,Phoenix,Fraud,4333,2033
+2001,Phoenix,Robbery,723,458
+2001,Phoenix,Vehicle Theft,3760,2737
+2001,Phoenix,Homicide,3804,2455
+2001,Phoenix,Drug Offense,3013,1206
+2001,San Antonio,Assault,3117,1848
+2001,San Antonio,Burglary,1710,889
+2001,San Antonio,Fraud,1800,779
+2001,San Antonio,Robbery,2784,2448
+2001,San Antonio,Vehicle Theft,911,726
+2001,San Antonio,Homicide,4973,2764
+2001,San Antonio,Drug Offense,3374,2506
+2001,San Diego,Assault,3444,2260
+2001,San Diego,Burglary,4467,3658
+2001,San Diego,Fraud,3321,2552
+2001,San Diego,Robbery,2906,1448
+2001,San Diego,Vehicle Theft,4718,3242
+2001,San Diego,Homicide,2244,1798
+2001,San Diego,Drug Offense,819,381
+2001,Dallas,Assault,1897,1016
+2001,Dallas,Burglary,1138,635
+2001,Dallas,Fraud,1669,795
+2001,Dallas,Robbery,2657,1377
+2001,Dallas,Vehicle Theft,1016,793
+2001,Dallas,Homicide,4821,4013
+2001,Dallas,Drug Offense,1335,767
+2001,San Jose,Assault,1126,647
+2001,San Jose,Burglary,3682,2795
+2001,San Jose,Fraud,4852,3090
+2001,San Jose,Robbery,3946,3335
+2001,San Jose,Vehicle Theft,724,447
+2001,San Jose,Homicide,1596,1222
+2001,San Jose,Drug Offense,827,542
+2002,New York,Assault,2534,1784
+2002,New York,Burglary,1394,651
+2002,New York,Fraud,1733,1447
+2002,New York,Robbery,3718,2663
+2002,New York,Vehicle Theft,3897,2294
+2002,New York,Homicide,1284,818
+2002,New York,Drug Offense,1769,1316
+2002,Los Angeles,Assault,2685,1234
+2002,Los Angeles,Burglary,4415,3732
+2002,Los Angeles,Fraud,1565,879
+2002,Los Angeles,Robbery,4737,3152
+2002,Los Angeles,Vehicle Theft,867,576
+2002,Los Angeles,Homicide,4922,3786
+2002,Los Angeles,Drug Offense,3087,2658
+2002,Chicago,Assault,4642,2175
+2002,Chicago,Burglary,3644,2675
+2002,Chicago,Fraud,4375,2432
+2002,Chicago,Robbery,4445,3562
+2002,Chicago,Vehicle Theft,4678,4140
+2002,Chicago,Homicide,934,818
+2002,Chicago,Drug Offense,2962,2230
+2002,Houston,Assault,4891,4335
+2002,Houston,Burglary,2764,2171
+2002,Houston,Fraud,4339,2195
+2002,Houston,Robbery,4932,3451
+2002,Houston,Vehicle Theft,1113,512
+2002,Houston,Homicide,3717,2201
+2002,Houston,Drug Offense,4915,4039
+2002,Philadelphia,Assault,583,472
+2002,Philadelphia,Burglary,2909,1506
+2002,Philadelphia,Fraud,2253,1376
+2002,Philadelphia,Robbery,3399,2097
+2002,Philadelphia,Vehicle Theft,1206,542
+2002,Philadelphia,Homicide,3870,1703
+2002,Philadelphia,Drug Offense,3941,2037
+2002,Phoenix,Assault,2577,2042
+2002,Phoenix,Burglary,4879,3898
+2002,Phoenix,Fraud,4408,2441
+2002,Phoenix,Robbery,2424,1523
+2002,Phoenix,Vehicle Theft,1363,558
+2002,Phoenix,Homicide,3489,1841
+2002,Phoenix,Drug Offense,2637,1388
+2002,San Antonio,Assault,1556,676
+2002,San Antonio,Burglary,4153,2871
+2002,San Antonio,Fraud,3073,1827
+2002,San Antonio,Robbery,2523,1158
+2002,San Antonio,Vehicle Theft,4735,2177
+2002,San Antonio,Homicide,657,339
+2002,San Antonio,Drug Offense,3506,1677
+2002,San Diego,Assault,2378,1786
+2002,San Diego,Burglary,628,312
+2002,San Diego,Fraud,3262,2551
+2002,San Diego,Robbery,2837,2234
+2002,San Diego,Vehicle Theft,1452,677
+2002,San Diego,Homicide,4682,3457
+2002,San Diego,Drug Offense,3153,2435
+2002,Dallas,Assault,2504,2143
+2002,Dallas,Burglary,4170,3284
+2002,Dallas,Fraud,2577,1431
+2002,Dallas,Robbery,3241,2048
+2002,Dallas,Vehicle Theft,4931,3205
+2002,Dallas,Homicide,888,718
+2002,Dallas,Drug Offense,2268,1674
+2002,San Jose,Assault,1999,1374
+2002,San Jose,Burglary,791,670
+2002,San Jose,Fraud,4854,2190
+2002,San Jose,Robbery,2488,1456
+2002,San Jose,Vehicle Theft,2288,1867
+2002,San Jose,Homicide,3911,3110
+2002,San Jose,Drug Offense,1031,496
+2003,New York,Assault,538,276
+2003,New York,Burglary,4612,3090
+2003,New York,Fraud,2596,1504
+2003,New York,Robbery,1172,680
+2003,New York,Vehicle Theft,4171,1735
+2003,New York,Homicide,2018,1290
+2003,New York,Drug Offense,894,733
+2003,Los Angeles,Assault,4484,3277
+2003,Los Angeles,Burglary,3377,2799
+2003,Los Angeles,Fraud,1910,1559
+2003,Los Angeles,Robbery,2618,2344
+2003,Los Angeles,Vehicle Theft,922,464
+2003,Los Angeles,Homicide,656,465
+2003,Los Angeles,Drug Offense,1662,759
+2003,Chicago,Assault,4389,3119
+2003,Chicago,Burglary,3123,2677
+2003,Chicago,Fraud,2271,1969
+2003,Chicago,Robbery,4700,2621
+2003,Chicago,Vehicle Theft,2188,1602
+2003,Chicago,Homicide,2156,1329
+2003,Chicago,Drug Offense,4313,3371
+2003,Houston,Assault,4621,2460
+2003,Houston,Burglary,3198,2468
+2003,Houston,Fraud,4262,3040
+2003,Houston,Robbery,4519,2012
+2003,Houston,Vehicle Theft,2264,1102
+2003,Houston,Homicide,4985,2373
+2003,Houston,Drug Offense,1775,1568
+2003,Philadelphia,Assault,2265,1597
+2003,Philadelphia,Burglary,2860,1984
+2003,Philadelphia,Fraud,611,529
+2003,Philadelphia,Robbery,1900,1197
+2003,Philadelphia,Vehicle Theft,1430,889
+2003,Philadelphia,Homicide,3288,2664
+2003,Philadelphia,Drug Offense,3117,2234
+2003,Phoenix,Assault,4820,2364
+2003,Phoenix,Burglary,3284,2816
+2003,Phoenix,Fraud,1236,688
+2003,Phoenix,Robbery,1424,1087
+2003,Phoenix,Vehicle Theft,2261,1600
+2003,Phoenix,Homicide,4067,2221
+2003,Phoenix,Drug Offense,3107,1945
+2003,San Antonio,Assault,1217,930
+2003,San Antonio,Burglary,1535,1069
+2003,San Antonio,Fraud,539,251
+2003,San Antonio,Robbery,868,354
+2003,San Antonio,Vehicle Theft,713,626
+2003,San Antonio,Homicide,4462,3462
+2003,San Antonio,Drug Offense,1040,448
+2003,San Diego,Assault,3511,2464
+2003,San Diego,Burglary,3230,1961
+2003,San Diego,Fraud,3674,2241
+2003,San Diego,Robbery,696,328
+2003,San Diego,Vehicle Theft,3649,1860
+2003,San Diego,Homicide,4688,2048
+2003,San Diego,Drug Offense,3006,1388
+2003,Dallas,Assault,2527,1865
+2003,Dallas,Burglary,3400,2380
+2003,Dallas,Fraud,4529,1827
+2003,Dallas,Robbery,2459,2014
+2003,Dallas,Vehicle Theft,2945,2548
+2003,Dallas,Homicide,1606,1423
+2003,Dallas,Drug Offense,3755,3066
+2003,San Jose,Assault,4905,3316
+2003,San Jose,Burglary,547,360
+2003,San Jose,Fraud,508,453
+2003,San Jose,Robbery,4194,1827
+2003,San Jose,Vehicle Theft,930,377
+2003,San Jose,Homicide,1100,655
+2003,San Jose,Drug Offense,3314,1612
+2004,New York,Assault,3100,2590
+2004,New York,Burglary,1306,1129
+2004,New York,Fraud,3160,1594
+2004,New York,Robbery,3471,2788
+2004,New York,Vehicle Theft,837,381
+2004,New York,Homicide,2961,1701
+2004,New York,Drug Offense,4288,1880
+2004,Los Angeles,Assault,3716,1565
+2004,Los Angeles,Burglary,4954,2455
+2004,Los Angeles,Fraud,552,483
+2004,Los Angeles,Robbery,1563,1259
+2004,Los Angeles,Vehicle Theft,1246,1015
+2004,Los Angeles,Homicide,2655,1467
+2004,Los Angeles,Drug Offense,2113,1296
+2004,Chicago,Assault,3597,2836
+2004,Chicago,Burglary,2686,1120
+2004,Chicago,Fraud,4702,3902
+2004,Chicago,Robbery,3484,2635
+2004,Chicago,Vehicle Theft,3133,1416
+2004,Chicago,Homicide,3578,2714
+2004,Chicago,Drug Offense,1193,800
+2004,Houston,Assault,1990,1735
+2004,Houston,Burglary,4636,3851
+2004,Houston,Fraud,4158,2871
+2004,Houston,Robbery,4133,2509
+2004,Houston,Vehicle Theft,2524,1245
+2004,Houston,Homicide,4298,2440
+2004,Houston,Drug Offense,1284,1099
+2004,Philadelphia,Assault,2769,2184
+2004,Philadelphia,Burglary,1038,758
+2004,Philadelphia,Fraud,1056,584
+2004,Philadelphia,Robbery,1943,1038
+2004,Philadelphia,Vehicle Theft,2895,2397
+2004,Philadelphia,Homicide,1037,821
+2004,Philadelphia,Drug Offense,2244,1032
+2004,Phoenix,Assault,2286,1121
+2004,Phoenix,Burglary,1668,1494
+2004,Phoenix,Fraud,1999,1111
+2004,Phoenix,Robbery,1157,894
+2004,Phoenix,Vehicle Theft,3193,2351
+2004,Phoenix,Homicide,4018,2303
+2004,Phoenix,Drug Offense,3553,2551
+2004,San Antonio,Assault,2509,1005
+2004,San Antonio,Burglary,4224,3640
+2004,San Antonio,Fraud,4727,3418
+2004,San Antonio,Robbery,2474,1204
+2004,San Antonio,Vehicle Theft,1898,1041
+2004,San Antonio,Homicide,875,371
+2004,San Antonio,Drug Offense,794,509
+2004,San Diego,Assault,4109,3198
+2004,San Diego,Burglary,2559,1133
+2004,San Diego,Fraud,1318,1106
+2004,San Diego,Robbery,4297,3468
+2004,San Diego,Vehicle Theft,1212,996
+2004,San Diego,Homicide,3008,2059
+2004,San Diego,Drug Offense,3998,2351
+2004,Dallas,Assault,3579,2599
+2004,Dallas,Burglary,721,336
+2004,Dallas,Fraud,3547,1568
+2004,Dallas,Robbery,578,432
+2004,Dallas,Vehicle Theft,1593,1147
+2004,Dallas,Homicide,1076,922
+2004,Dallas,Drug Offense,2764,1225
+2004,San Jose,Assault,4436,1814
+2004,San Jose,Burglary,2922,1901
+2004,San Jose,Fraud,965,659
+2004,San Jose,Robbery,1549,1231
+2004,San Jose,Vehicle Theft,3340,2645
+2004,San Jose,Homicide,1061,744
+2004,San Jose,Drug Offense,2765,2079
+2005,New York,Assault,4953,2248
+2005,New York,Burglary,873,657
+2005,New York,Fraud,4516,2565
+2005,New York,Robbery,4227,2384
+2005,New York,Vehicle Theft,1492,1089
+2005,New York,Homicide,2953,1537
+2005,New York,Drug Offense,3773,1571
+2005,Los Angeles,Assault,4045,2911
+2005,Los Angeles,Burglary,4837,2380
+2005,Los Angeles,Fraud,1879,1124
+2005,Los Angeles,Robbery,1336,963
+2005,Los Angeles,Vehicle Theft,4937,3656
+2005,Los Angeles,Homicide,4979,3992
+2005,Los Angeles,Drug Offense,3646,3006
+2005,Chicago,Assault,2173,1910
+2005,Chicago,Burglary,2014,1752
+2005,Chicago,Fraud,701,375
+2005,Chicago,Robbery,3152,2655
+2005,Chicago,Vehicle Theft,3009,1621
+2005,Chicago,Homicide,831,727
+2005,Chicago,Drug Offense,598,508
+2005,Houston,Assault,669,506
+2005,Houston,Burglary,3942,2743
+2005,Houston,Fraud,2107,1594
+2005,Houston,Robbery,4487,2713
+2005,Houston,Vehicle Theft,2048,869
+2005,Houston,Homicide,1325,1002
+2005,Houston,Drug Offense,1123,737
+2005,Philadelphia,Assault,4787,2993
+2005,Philadelphia,Burglary,1501,1151
+2005,Philadelphia,Fraud,1524,948
+2005,Philadelphia,Robbery,4573,2407
+2005,Philadelphia,Vehicle Theft,2006,1409
+2005,Philadelphia,Homicide,2005,1371
+2005,Philadelphia,Drug Offense,601,369
+2005,Phoenix,Assault,1976,1087
+2005,Phoenix,Burglary,1651,904
+2005,Phoenix,Fraud,4882,2114
+2005,Phoenix,Robbery,2796,1168
+2005,Phoenix,Vehicle Theft,1986,1540
+2005,Phoenix,Homicide,2350,1328
+2005,Phoenix,Drug Offense,4372,2933
+2005,San Antonio,Assault,4193,2015
+2005,San Antonio,Burglary,3656,1722
+2005,San Antonio,Fraud,4445,3155
+2005,San Antonio,Robbery,3566,1973
+2005,San Antonio,Vehicle Theft,1290,734
+2005,San Antonio,Homicide,632,416
+2005,San Antonio,Drug Offense,3251,1519
+2005,San Diego,Assault,3627,2667
+2005,San Diego,Burglary,1462,592
+2005,San Diego,Fraud,1657,1283
+2005,San Diego,Robbery,4448,3804
+2005,San Diego,Vehicle Theft,4638,2337
+2005,San Diego,Homicide,1754,1426
+2005,San Diego,Drug Offense,3694,2097
+2005,Dallas,Assault,2499,1957
+2005,Dallas,Burglary,2106,1015
+2005,Dallas,Fraud,4048,1868
+2005,Dallas,Robbery,2871,2137
+2005,Dallas,Vehicle Theft,3392,2091
+2005,Dallas,Homicide,1172,673
+2005,Dallas,Drug Offense,1842,1385
+2005,San Jose,Assault,2625,1157
+2005,San Jose,Burglary,2706,2192
+2005,San Jose,Fraud,2013,1272
+2005,San Jose,Robbery,5000,4157
+2005,San Jose,Vehicle Theft,1093,819
+2005,San Jose,Homicide,3299,1836
+2005,San Jose,Drug Offense,4386,2913
+2006,New York,Assault,3179,1358
+2006,New York,Burglary,2299,1507
+2006,New York,Fraud,1727,897
+2006,New York,Robbery,1288,1033
+2006,New York,Vehicle Theft,3471,2400
+2006,New York,Homicide,3791,1776
+2006,New York,Drug Offense,4511,4044
+2006,Los Angeles,Assault,4872,3540
+2006,Los Angeles,Burglary,1262,985
+2006,Los Angeles,Fraud,2606,2153
+2006,Los Angeles,Robbery,4590,3433
+2006,Los Angeles,Vehicle Theft,2474,1703
+2006,Los Angeles,Homicide,2107,1034
+2006,Los Angeles,Drug Offense,1181,839
+2006,Chicago,Assault,3637,2639
+2006,Chicago,Burglary,2607,1851
+2006,Chicago,Fraud,2195,1504
+2006,Chicago,Robbery,4283,2729
+2006,Chicago,Vehicle Theft,2635,1418
+2006,Chicago,Homicide,2535,1118
+2006,Chicago,Drug Offense,2593,1949
+2006,Houston,Assault,1203,735
+2006,Houston,Burglary,3629,1781
+2006,Houston,Fraud,2974,1635
+2006,Houston,Robbery,2197,1326
+2006,Houston,Vehicle Theft,2023,1040
+2006,Houston,Homicide,3766,2173
+2006,Houston,Drug Offense,1033,438
+2006,Philadelphia,Assault,637,477
+2006,Philadelphia,Burglary,4321,2880
+2006,Philadelphia,Fraud,1334,740
+2006,Philadelphia,Robbery,2750,1481
+2006,Philadelphia,Vehicle Theft,1968,1521
+2006,Philadelphia,Homicide,2740,1898
+2006,Philadelphia,Drug Offense,833,437
+2006,Phoenix,Assault,803,624
+2006,Phoenix,Burglary,4306,2390
+2006,Phoenix,Fraud,664,434
+2006,Phoenix,Robbery,4906,3305
+2006,Phoenix,Vehicle Theft,4162,2983
+2006,Phoenix,Homicide,3917,3470
+2006,Phoenix,Drug Offense,1641,1193
+2006,San Antonio,Assault,1881,1230
+2006,San Antonio,Burglary,3394,2350
+2006,San Antonio,Fraud,820,441
+2006,San Antonio,Robbery,1011,418
+2006,San Antonio,Vehicle Theft,1222,569
+2006,San Antonio,Homicide,3342,1605
+2006,San Antonio,Drug Offense,517,294
+2006,San Diego,Assault,3629,2370
+2006,San Diego,Burglary,980,588
+2006,San Diego,Fraud,901,510
+2006,San Diego,Robbery,1267,862
+2006,San Diego,Vehicle Theft,1836,1631
+2006,San Diego,Homicide,2459,2207
+2006,San Diego,Drug Offense,1729,1013
+2006,Dallas,Assault,2893,1530
+2006,Dallas,Burglary,1174,587
+2006,Dallas,Fraud,3892,3114
+2006,Dallas,Robbery,3130,2154
+2006,Dallas,Vehicle Theft,1543,1108
+2006,Dallas,Homicide,1020,678
+2006,Dallas,Drug Offense,4006,3455
+2006,San Jose,Assault,2653,1514
+2006,San Jose,Burglary,2884,1773
+2006,San Jose,Fraud,553,485
+2006,San Jose,Robbery,1641,1453
+2006,San Jose,Vehicle Theft,2161,1715
+2006,San Jose,Homicide,1139,507
+2006,San Jose,Drug Offense,3379,1746
+2007,New York,Assault,2988,2037
+2007,New York,Burglary,852,551
+2007,New York,Fraud,3219,1504
+2007,New York,Robbery,4813,3139
+2007,New York,Vehicle Theft,4726,3653
+2007,New York,Homicide,2231,1124
+2007,New York,Drug Offense,3504,1869
+2007,Los Angeles,Assault,4480,3033
+2007,Los Angeles,Burglary,1814,1018
+2007,Los Angeles,Fraud,4047,1652
+2007,Los Angeles,Robbery,1032,551
+2007,Los Angeles,Vehicle Theft,677,566
+2007,Los Angeles,Homicide,1441,1255
+2007,Los Angeles,Drug Offense,3779,2830
+2007,Chicago,Assault,3592,2960
+2007,Chicago,Burglary,3153,2421
+2007,Chicago,Fraud,3400,2577
+2007,Chicago,Robbery,3970,1851
+2007,Chicago,Vehicle Theft,4934,3072
+2007,Chicago,Homicide,1543,692
+2007,Chicago,Drug Offense,4278,3495
+2007,Houston,Assault,710,345
+2007,Houston,Burglary,3021,2187
+2007,Houston,Fraud,3214,1601
+2007,Houston,Robbery,4709,4051
+2007,Houston,Vehicle Theft,1448,1230
+2007,Houston,Homicide,1704,1493
+2007,Houston,Drug Offense,2666,1715
+2007,Philadelphia,Assault,3651,2710
+2007,Philadelphia,Burglary,3677,2207
+2007,Philadelphia,Fraud,3589,2458
+2007,Philadelphia,Robbery,1303,761
+2007,Philadelphia,Vehicle Theft,910,818
+2007,Philadelphia,Homicide,2290,1936
+2007,Philadelphia,Drug Offense,1239,501
+2007,Phoenix,Assault,4754,3664
+2007,Phoenix,Burglary,867,408
+2007,Phoenix,Fraud,4292,3207
+2007,Phoenix,Robbery,2833,1211
+2007,Phoenix,Vehicle Theft,4524,2605
+2007,Phoenix,Homicide,1031,599
+2007,Phoenix,Drug Offense,2571,1449
+2007,San Antonio,Assault,1842,1547
+2007,San Antonio,Burglary,1190,483
+2007,San Antonio,Fraud,3831,3376
+2007,San Antonio,Robbery,885,356
+2007,San Antonio,Vehicle Theft,3805,3364
+2007,San Antonio,Homicide,950,427
+2007,San Antonio,Drug Offense,1419,855
+2007,San Diego,Assault,1851,1028
+2007,San Diego,Burglary,2175,1269
+2007,San Diego,Fraud,2297,1193
+2007,San Diego,Robbery,3566,2919
+2007,San Diego,Vehicle Theft,4540,2415
+2007,San Diego,Homicide,2839,2459
+2007,San Diego,Drug Offense,523,465
+2007,Dallas,Assault,3420,2085
+2007,Dallas,Burglary,3421,1907
+2007,Dallas,Fraud,2956,2017
+2007,Dallas,Robbery,4650,1963
+2007,Dallas,Vehicle Theft,1250,590
+2007,Dallas,Homicide,4971,3612
+2007,Dallas,Drug Offense,3858,3071
+2007,San Jose,Assault,788,511
+2007,San Jose,Burglary,2629,1054
+2007,San Jose,Fraud,1846,1578
+2007,San Jose,Robbery,1249,947
+2007,San Jose,Vehicle Theft,1227,603
+2007,San Jose,Homicide,4357,3429
+2007,San Jose,Drug Offense,1952,1717
+2008,New York,Assault,3100,2257
+2008,New York,Burglary,3510,1504
+2008,New York,Fraud,3030,1937
+2008,New York,Robbery,4158,2487
+2008,New York,Vehicle Theft,1372,613
+2008,New York,Homicide,830,480
+2008,New York,Drug Offense,1368,935
+2008,Los Angeles,Assault,4282,3375
+2008,Los Angeles,Burglary,2591,1360
+2008,Los Angeles,Fraud,1217,797
+2008,Los Angeles,Robbery,1577,805
+2008,Los Angeles,Vehicle Theft,1522,961
+2008,Los Angeles,Homicide,2104,1463
+2008,Los Angeles,Drug Offense,4159,1916
+2008,Chicago,Assault,3368,1943
+2008,Chicago,Burglary,1986,1397
+2008,Chicago,Fraud,4692,2107
+2008,Chicago,Robbery,3311,1794
+2008,Chicago,Vehicle Theft,2395,968
+2008,Chicago,Homicide,1724,958
+2008,Chicago,Drug Offense,3710,3222
+2008,Houston,Assault,3799,3003
+2008,Houston,Burglary,1016,869
+2008,Houston,Fraud,976,669
+2008,Houston,Robbery,4080,3036
+2008,Houston,Vehicle Theft,4292,3562
+2008,Houston,Homicide,4738,2374
+2008,Houston,Drug Offense,4198,3175
+2008,Philadelphia,Assault,896,782
+2008,Philadelphia,Burglary,2635,2023
+2008,Philadelphia,Fraud,1360,608
+2008,Philadelphia,Robbery,2414,2072
+2008,Philadelphia,Vehicle Theft,998,811
+2008,Philadelphia,Homicide,1236,607
+2008,Philadelphia,Drug Offense,1234,940
+2008,Phoenix,Assault,1080,500
+2008,Phoenix,Burglary,3585,1603
+2008,Phoenix,Fraud,2993,1447
+2008,Phoenix,Robbery,2938,1198
+2008,Phoenix,Vehicle Theft,3056,1421
+2008,Phoenix,Homicide,4074,2101
+2008,Phoenix,Drug Offense,782,445
+2008,San Antonio,Assault,1460,1052
+2008,San Antonio,Burglary,4580,2082
+2008,San Antonio,Fraud,4689,2724
+2008,San Antonio,Robbery,4236,3745
+2008,San Antonio,Vehicle Theft,3686,3008
+2008,San Antonio,Homicide,4121,3333
+2008,San Antonio,Drug Offense,2540,1623
+2008,San Diego,Assault,4103,3041
+2008,San Diego,Burglary,961,585
+2008,San Diego,Fraud,1557,729
+2008,San Diego,Robbery,4851,4148
+2008,San Diego,Vehicle Theft,1812,971
+2008,San Diego,Homicide,4548,3522
+2008,San Diego,Drug Offense,1787,1258
+2008,Dallas,Assault,2973,2275
+2008,Dallas,Burglary,651,407
+2008,Dallas,Fraud,2991,2184
+2008,Dallas,Robbery,590,489
+2008,Dallas,Vehicle Theft,1340,994
+2008,Dallas,Homicide,4902,3470
+2008,Dallas,Drug Offense,1553,711
+2008,San Jose,Assault,1350,594
+2008,San Jose,Burglary,2344,1331
+2008,San Jose,Fraud,1084,469
+2008,San Jose,Robbery,1322,576
+2008,San Jose,Vehicle Theft,4134,2062
+2008,San Jose,Homicide,4950,2219
+2008,San Jose,Drug Offense,3051,1761
+2009,New York,Assault,1894,1054
+2009,New York,Burglary,1960,850
+2009,New York,Fraud,625,283
+2009,New York,Robbery,1257,1097
+2009,New York,Vehicle Theft,577,404
+2009,New York,Homicide,3753,1768
+2009,New York,Drug Offense,1112,905
+2009,Los Angeles,Assault,3349,1993
+2009,Los Angeles,Burglary,3689,2839
+2009,Los Angeles,Fraud,2941,1652
+2009,Los Angeles,Robbery,4722,2246
+2009,Los Angeles,Vehicle Theft,2230,1085
+2009,Los Angeles,Homicide,3533,2259
+2009,Los Angeles,Drug Offense,4507,3916
+2009,Chicago,Assault,953,595
+2009,Chicago,Burglary,4873,2137
+2009,Chicago,Fraud,1914,886
+2009,Chicago,Robbery,4573,3112
+2009,Chicago,Vehicle Theft,1378,1206
+2009,Chicago,Homicide,1538,1083
+2009,Chicago,Drug Offense,2878,1947
+2009,Houston,Assault,1012,483
+2009,Houston,Burglary,4498,3662
+2009,Houston,Fraud,3369,2450
+2009,Houston,Robbery,4551,2647
+2009,Houston,Vehicle Theft,2543,1409
+2009,Houston,Homicide,1361,974
+2009,Houston,Drug Offense,1594,693
+2009,Philadelphia,Assault,2184,984
+2009,Philadelphia,Burglary,1298,798
+2009,Philadelphia,Fraud,2910,1806
+2009,Philadelphia,Robbery,1224,956
+2009,Philadelphia,Vehicle Theft,2592,1888
+2009,Philadelphia,Homicide,2370,1577
+2009,Philadelphia,Drug Offense,3332,1627
+2009,Phoenix,Assault,1600,675
+2009,Phoenix,Burglary,2182,1441
+2009,Phoenix,Fraud,3524,1701
+2009,Phoenix,Robbery,4418,2824
+2009,Phoenix,Vehicle Theft,2219,1357
+2009,Phoenix,Homicide,4563,3860
+2009,Phoenix,Drug Offense,2186,937
+2009,San Antonio,Assault,2695,1639
+2009,San Antonio,Burglary,2851,2504
+2009,San Antonio,Fraud,1439,583
+2009,San Antonio,Robbery,2009,1335
+2009,San Antonio,Vehicle Theft,961,647
+2009,San Antonio,Homicide,3211,2297
+2009,San Antonio,Drug Offense,1588,1211
+2009,San Diego,Assault,2017,1149
+2009,San Diego,Burglary,1232,886
+2009,San Diego,Fraud,1924,1173
+2009,San Diego,Robbery,563,226
+2009,San Diego,Vehicle Theft,840,407
+2009,San Diego,Homicide,3106,1934
+2009,San Diego,Drug Offense,3638,1691
+2009,Dallas,Assault,779,671
+2009,Dallas,Burglary,2186,1623
+2009,Dallas,Fraud,3823,3049
+2009,Dallas,Robbery,1848,1501
+2009,Dallas,Vehicle Theft,1360,1177
+2009,Dallas,Homicide,2316,985
+2009,Dallas,Drug Offense,1582,1090
+2009,San Jose,Assault,4913,3722
+2009,San Jose,Burglary,3819,2587
+2009,San Jose,Fraud,3888,3191
+2009,San Jose,Robbery,4761,2144
+2009,San Jose,Vehicle Theft,587,487
+2009,San Jose,Homicide,4288,3365
+2009,San Jose,Drug Offense,1765,919
+2010,New York,Assault,4132,3398
+2010,New York,Burglary,3908,3289
+2010,New York,Fraud,3494,2108
+2010,New York,Robbery,4574,2694
+2010,New York,Vehicle Theft,993,831
+2010,New York,Homicide,4359,1953
+2010,New York,Drug Offense,816,532
+2010,Los Angeles,Assault,2198,1452
+2010,Los Angeles,Burglary,3973,3392
+2010,Los Angeles,Fraud,3099,2176
+2010,Los Angeles,Robbery,559,343
+2010,Los Angeles,Vehicle Theft,2143,1132
+2010,Los Angeles,Homicide,3810,2901
+2010,Los Angeles,Drug Offense,2808,2392
+2010,Chicago,Assault,2276,1787
+2010,Chicago,Burglary,2702,2220
+2010,Chicago,Fraud,4520,3771
+2010,Chicago,Robbery,3009,2123
+2010,Chicago,Vehicle Theft,2967,1796
+2010,Chicago,Homicide,4567,3353
+2010,Chicago,Drug Offense,2071,1757
+2010,Houston,Assault,2482,1361
+2010,Houston,Burglary,2739,1140
+2010,Houston,Fraud,508,257
+2010,Houston,Robbery,3500,2298
+2010,Houston,Vehicle Theft,1747,1022
+2010,Houston,Homicide,2747,2313
+2010,Houston,Drug Offense,2667,1616
+2010,Philadelphia,Assault,4355,2815
+2010,Philadelphia,Burglary,1074,430
+2010,Philadelphia,Fraud,4427,3372
+2010,Philadelphia,Robbery,4866,2540
+2010,Philadelphia,Vehicle Theft,2846,1339
+2010,Philadelphia,Homicide,1710,1335
+2010,Philadelphia,Drug Offense,1103,643
+2010,Phoenix,Assault,789,684
+2010,Phoenix,Burglary,824,450
+2010,Phoenix,Fraud,1558,891
+2010,Phoenix,Robbery,1118,861
+2010,Phoenix,Vehicle Theft,1135,714
+2010,Phoenix,Homicide,1836,1007
+2010,Phoenix,Drug Offense,3169,1752
+2010,San Antonio,Assault,2188,1294
+2010,San Antonio,Burglary,812,407
+2010,San Antonio,Fraud,3959,1871
+2010,San Antonio,Robbery,3485,2839
+2010,San Antonio,Vehicle Theft,3036,1934
+2010,San Antonio,Homicide,3920,1975
+2010,San Antonio,Drug Offense,4064,2186
+2010,San Diego,Assault,946,432
+2010,San Diego,Burglary,1173,488
+2010,San Diego,Fraud,1014,460
+2010,San Diego,Robbery,4640,2175
+2010,San Diego,Vehicle Theft,580,388
+2010,San Diego,Homicide,3638,1677
+2010,San Diego,Drug Offense,945,765
+2010,Dallas,Assault,4015,3321
+2010,Dallas,Burglary,2175,948
+2010,Dallas,Fraud,4691,2495
+2010,Dallas,Robbery,720,443
+2010,Dallas,Vehicle Theft,3212,1777
+2010,Dallas,Homicide,2232,1367
+2010,Dallas,Drug Offense,1287,688
+2010,San Jose,Assault,3933,2833
+2010,San Jose,Burglary,4573,2233
+2010,San Jose,Fraud,3253,2218
+2010,San Jose,Robbery,3874,2097
+2010,San Jose,Vehicle Theft,4540,2100
+2010,San Jose,Homicide,4936,2311
+2010,San Jose,Drug Offense,2500,2210
+2011,New York,Assault,4333,2345
+2011,New York,Burglary,1208,749
+2011,New York,Fraud,3888,2207
+2011,New York,Robbery,1033,484
+2011,New York,Vehicle Theft,2243,1748
+2011,New York,Homicide,1889,1182
+2011,New York,Drug Offense,1842,1306
+2011,Los Angeles,Assault,950,558
+2011,Los Angeles,Burglary,3013,1710
+2011,Los Angeles,Fraud,3225,1393
+2011,Los Angeles,Robbery,2297,935
+2011,Los Angeles,Vehicle Theft,537,346
+2011,Los Angeles,Homicide,2701,2423
+2011,Los Angeles,Drug Offense,4466,2856
+2011,Chicago,Assault,2817,1330
+2011,Chicago,Burglary,4018,2261
+2011,Chicago,Fraud,3387,1758
+2011,Chicago,Robbery,4012,1856
+2011,Chicago,Vehicle Theft,3724,3332
+2011,Chicago,Homicide,1895,1249
+2011,Chicago,Drug Offense,1840,1061
+2011,Houston,Assault,2047,911
+2011,Houston,Burglary,2069,1098
+2011,Houston,Fraud,3325,2568
+2011,Houston,Robbery,4791,1977
+2011,Houston,Vehicle Theft,3364,2801
+2011,Houston,Homicide,1334,711
+2011,Houston,Drug Offense,1319,827
+2011,Philadelphia,Assault,3230,2054
+2011,Philadelphia,Burglary,4821,2581
+2011,Philadelphia,Fraud,1031,709
+2011,Philadelphia,Robbery,1730,1470
+2011,Philadelphia,Vehicle Theft,567,280
+2011,Philadelphia,Homicide,1155,804
+2011,Philadelphia,Drug Offense,605,338
+2011,Phoenix,Assault,3219,1776
+2011,Phoenix,Burglary,2196,1284
+2011,Phoenix,Fraud,2467,2033
+2011,Phoenix,Robbery,3032,1623
+2011,Phoenix,Vehicle Theft,982,498
+2011,Phoenix,Homicide,754,596
+2011,Phoenix,Drug Offense,3337,2433
+2011,San Antonio,Assault,3042,1423
+2011,San Antonio,Burglary,1109,755
+2011,San Antonio,Fraud,644,491
+2011,San Antonio,Robbery,2781,2159
+2011,San Antonio,Vehicle Theft,2908,2042
+2011,San Antonio,Homicide,4625,1920
+2011,San Antonio,Drug Offense,2003,1137
+2011,San Diego,Assault,3464,2840
+2011,San Diego,Burglary,3685,3032
+2011,San Diego,Fraud,3750,2511
+2011,San Diego,Robbery,1609,1165
+2011,San Diego,Vehicle Theft,1625,675
+2011,San Diego,Homicide,3887,2099
+2011,San Diego,Drug Offense,3919,1941
+2011,Dallas,Assault,4968,3240
+2011,Dallas,Burglary,4695,3470
+2011,Dallas,Fraud,2401,2084
+2011,Dallas,Robbery,2098,1236
+2011,Dallas,Vehicle Theft,2481,1652
+2011,Dallas,Homicide,4239,2220
+2011,Dallas,Drug Offense,4226,1893
+2011,San Jose,Assault,3670,2158
+2011,San Jose,Burglary,4488,2122
+2011,San Jose,Fraud,939,776
+2011,San Jose,Robbery,2288,1719
+2011,San Jose,Vehicle Theft,1663,821
+2011,San Jose,Homicide,1986,1673
+2011,San Jose,Drug Offense,3370,1398
+2012,New York,Assault,3568,2960
+2012,New York,Burglary,2455,2171
+2012,New York,Fraud,1016,638
+2012,New York,Robbery,2072,1702
+2012,New York,Vehicle Theft,4346,1809
+2012,New York,Homicide,1802,1230
+2012,New York,Drug Offense,3625,1828
+2012,Los Angeles,Assault,1818,958
+2012,Los Angeles,Burglary,2020,1439
+2012,Los Angeles,Fraud,2633,1147
+2012,Los Angeles,Robbery,2005,1382
+2012,Los Angeles,Vehicle Theft,1072,868
+2012,Los Angeles,Homicide,4718,4064
+2012,Los Angeles,Drug Offense,2469,1196
+2012,Chicago,Assault,4193,2250
+2012,Chicago,Burglary,4716,3918
+2012,Chicago,Fraud,3857,1733
+2012,Chicago,Robbery,1605,969
+2012,Chicago,Vehicle Theft,1015,860
+2012,Chicago,Homicide,3256,2612
+2012,Chicago,Drug Offense,1801,775
+2012,Houston,Assault,3071,1239
+2012,Houston,Burglary,2672,1263
+2012,Houston,Fraud,3696,2693
+2012,Houston,Robbery,3615,2923
+2012,Houston,Vehicle Theft,4418,2519
+2012,Houston,Homicide,3362,1631
+2012,Houston,Drug Offense,1607,1222
+2012,Philadelphia,Assault,513,443
+2012,Philadelphia,Burglary,3889,1612
+2012,Philadelphia,Fraud,2666,1728
+2012,Philadelphia,Robbery,4306,2387
+2012,Philadelphia,Vehicle Theft,3880,2653
+2012,Philadelphia,Homicide,1740,888
+2012,Philadelphia,Drug Offense,1302,1148
+2012,Phoenix,Assault,3571,1893
+2012,Phoenix,Burglary,832,396
+2012,Phoenix,Fraud,3501,2730
+2012,Phoenix,Robbery,4115,2580
+2012,Phoenix,Vehicle Theft,4868,3332
+2012,Phoenix,Homicide,3698,2064
+2012,Phoenix,Drug Offense,884,518
+2012,San Antonio,Assault,3201,2262
+2012,San Antonio,Burglary,3968,2858
+2012,San Antonio,Fraud,1470,589
+2012,San Antonio,Robbery,3533,2028
+2012,San Antonio,Vehicle Theft,2354,1391
+2012,San Antonio,Homicide,2733,1442
+2012,San Antonio,Drug Offense,3080,1306
+2012,San Diego,Assault,724,439
+2012,San Diego,Burglary,4074,2079
+2012,San Diego,Fraud,988,636
+2012,San Diego,Robbery,3693,2563
+2012,San Diego,Vehicle Theft,4192,3740
+2012,San Diego,Homicide,3582,2175
+2012,San Diego,Drug Offense,1291,727
+2012,Dallas,Assault,3342,2193
+2012,Dallas,Burglary,4963,3647
+2012,Dallas,Fraud,1138,464
+2012,Dallas,Robbery,3896,2177
+2012,Dallas,Vehicle Theft,4882,2143
+2012,Dallas,Homicide,3374,2108
+2012,Dallas,Drug Offense,1932,1168
+2012,San Jose,Assault,2997,1821
+2012,San Jose,Burglary,1506,992
+2012,San Jose,Fraud,3973,2805
+2012,San Jose,Robbery,4204,2252
+2012,San Jose,Vehicle Theft,2343,2103
+2012,San Jose,Homicide,4290,2247
+2012,San Jose,Drug Offense,2779,1228
+2013,New York,Assault,1395,1226
+2013,New York,Burglary,2707,1996
+2013,New York,Fraud,4814,3871
+2013,New York,Robbery,528,471
+2013,New York,Vehicle Theft,2960,1210
+2013,New York,Homicide,1536,857
+2013,New York,Drug Offense,4651,4054
+2013,Los Angeles,Assault,1292,574
+2013,Los Angeles,Burglary,4760,3088
+2013,Los Angeles,Fraud,1823,1547
+2013,Los Angeles,Robbery,4713,2085
+2013,Los Angeles,Vehicle Theft,615,523
+2013,Los Angeles,Homicide,1671,1109
+2013,Los Angeles,Drug Offense,1863,1203
+2013,Chicago,Assault,3855,2246
+2013,Chicago,Burglary,591,514
+2013,Chicago,Fraud,696,406
+2013,Chicago,Robbery,1543,699
+2013,Chicago,Vehicle Theft,4515,2711
+2013,Chicago,Homicide,942,618
+2013,Chicago,Drug Offense,1246,718
+2013,Houston,Assault,2832,2130
+2013,Houston,Burglary,3625,2747
+2013,Houston,Fraud,4184,2623
+2013,Houston,Robbery,3638,1901
+2013,Houston,Vehicle Theft,1585,1364
+2013,Houston,Homicide,1111,901
+2013,Houston,Drug Offense,2848,1488
+2013,Philadelphia,Assault,3743,1757
+2013,Philadelphia,Burglary,2085,976
+2013,Philadelphia,Fraud,4088,2745
+2013,Philadelphia,Robbery,3660,2902
+2013,Philadelphia,Vehicle Theft,4211,3451
+2013,Philadelphia,Homicide,2460,1103
+2013,Philadelphia,Drug Offense,4331,3596
+2013,Phoenix,Assault,627,256
+2013,Phoenix,Burglary,1312,1087
+2013,Phoenix,Fraud,1427,724
+2013,Phoenix,Robbery,601,479
+2013,Phoenix,Vehicle Theft,3781,2726
+2013,Phoenix,Homicide,644,387
+2013,Phoenix,Drug Offense,4906,3614
+2013,San Antonio,Assault,2692,1488
+2013,San Antonio,Burglary,2644,1902
+2013,San Antonio,Fraud,1265,1024
+2013,San Antonio,Robbery,2008,1071
+2013,San Antonio,Vehicle Theft,4458,3626
+2013,San Antonio,Homicide,2818,2272
+2013,San Antonio,Drug Offense,559,436
+2013,San Diego,Assault,2322,1465
+2013,San Diego,Burglary,3543,2973
+2013,San Diego,Fraud,3394,1486
+2013,San Diego,Robbery,956,803
+2013,San Diego,Vehicle Theft,3352,1440
+2013,San Diego,Homicide,744,475
+2013,San Diego,Drug Offense,1555,1046
+2013,Dallas,Assault,848,342
+2013,Dallas,Burglary,3342,1436
+2013,Dallas,Fraud,2160,954
+2013,Dallas,Robbery,2733,2377
+2013,Dallas,Vehicle Theft,4970,2936
+2013,Dallas,Homicide,3822,2952
+2013,Dallas,Drug Offense,2213,1360
+2013,San Jose,Assault,708,410
+2013,San Jose,Burglary,2060,1575
+2013,San Jose,Fraud,4191,2400
+2013,San Jose,Robbery,848,485
+2013,San Jose,Vehicle Theft,4894,2259
+2013,San Jose,Homicide,2143,1489
+2013,San Jose,Drug Offense,3933,2077
+2014,New York,Assault,3487,2764
+2014,New York,Burglary,4254,2530
+2014,New York,Fraud,3814,3128
+2014,New York,Robbery,3008,2034
+2014,New York,Vehicle Theft,1185,881
+2014,New York,Homicide,4078,3173
+2014,New York,Drug Offense,3462,1988
+2014,Los Angeles,Assault,2049,1729
+2014,Los Angeles,Burglary,1602,1342
+2014,Los Angeles,Fraud,1712,833
+2014,Los Angeles,Robbery,2761,1124
+2014,Los Angeles,Vehicle Theft,2861,2048
+2014,Los Angeles,Homicide,1029,613
+2014,Los Angeles,Drug Offense,4266,3162
+2014,Chicago,Assault,4688,2344
+2014,Chicago,Burglary,4446,1965
+2014,Chicago,Fraud,4044,2396
+2014,Chicago,Robbery,2155,1344
+2014,Chicago,Vehicle Theft,3654,3263
+2014,Chicago,Homicide,786,557
+2014,Chicago,Drug Offense,2717,2034
+2014,Houston,Assault,4098,3062
+2014,Houston,Burglary,1360,1040
+2014,Houston,Fraud,3948,2239
+2014,Houston,Robbery,4668,3601
+2014,Houston,Vehicle Theft,1392,876
+2014,Houston,Homicide,3840,2106
+2014,Houston,Drug Offense,3355,2229
+2014,Philadelphia,Assault,2593,1622
+2014,Philadelphia,Burglary,3855,3051
+2014,Philadelphia,Fraud,1034,447
+2014,Philadelphia,Robbery,3940,1831
+2014,Philadelphia,Vehicle Theft,2959,1809
+2014,Philadelphia,Homicide,2797,1350
+2014,Philadelphia,Drug Offense,4262,2632
+2014,Phoenix,Assault,3076,1970
+2014,Phoenix,Burglary,4601,3465
+2014,Phoenix,Fraud,2607,1286
+2014,Phoenix,Robbery,2360,1307
+2014,Phoenix,Vehicle Theft,1797,760
+2014,Phoenix,Homicide,1895,1625
+2014,Phoenix,Drug Offense,3907,3081
+2014,San Antonio,Assault,3700,2650
+2014,San Antonio,Burglary,2072,1227
+2014,San Antonio,Fraud,3852,2731
+2014,San Antonio,Robbery,4627,3139
+2014,San Antonio,Vehicle Theft,3715,1694
+2014,San Antonio,Homicide,1756,970
+2014,San Antonio,Drug Offense,4288,3824
+2014,San Diego,Assault,628,462
+2014,San Diego,Burglary,4518,2266
+2014,San Diego,Fraud,3474,2247
+2014,San Diego,Robbery,1141,776
+2014,San Diego,Vehicle Theft,1063,866
+2014,San Diego,Homicide,2519,1821
+2014,San Diego,Drug Offense,2760,2425
+2014,Dallas,Assault,2458,1596
+2014,Dallas,Burglary,2024,909
+2014,Dallas,Fraud,4678,2003
+2014,Dallas,Robbery,1501,1313
+2014,Dallas,Vehicle Theft,1562,818
+2014,Dallas,Homicide,1138,831
+2014,Dallas,Drug Offense,3421,2082
+2014,San Jose,Assault,4836,2524
+2014,San Jose,Burglary,554,450
+2014,San Jose,Fraud,3893,2176
+2014,San Jose,Robbery,2615,2313
+2014,San Jose,Vehicle Theft,1516,678
+2014,San Jose,Homicide,1907,1666
+2014,San Jose,Drug Offense,628,452
+2015,New York,Assault,1665,777
+2015,New York,Burglary,2761,1813
+2015,New York,Fraud,4282,2862
+2015,New York,Robbery,4150,3586
+2015,New York,Vehicle Theft,3212,2413
+2015,New York,Homicide,1655,1300
+2015,New York,Drug Offense,1725,848
+2015,Los Angeles,Assault,2193,1738
+2015,Los Angeles,Burglary,2997,2279
+2015,Los Angeles,Fraud,2635,1365
+2015,Los Angeles,Robbery,2521,1514
+2015,Los Angeles,Vehicle Theft,2693,2053
+2015,Los Angeles,Homicide,1146,538
+2015,Los Angeles,Drug Offense,1517,634
+2015,Chicago,Assault,4437,3725
+2015,Chicago,Burglary,1085,505
+2015,Chicago,Fraud,2500,1895
+2015,Chicago,Robbery,4072,2936
+2015,Chicago,Vehicle Theft,1680,1492
+2015,Chicago,Homicide,4771,4028
+2015,Chicago,Drug Offense,1664,1374
+2015,Houston,Assault,1053,916
+2015,Houston,Burglary,2002,1393
+2015,Houston,Fraud,3137,2688
+2015,Houston,Robbery,1515,704
+2015,Houston,Vehicle Theft,1746,867
+2015,Houston,Homicide,4115,1896
+2015,Houston,Drug Offense,3412,1492
+2015,Philadelphia,Assault,1528,1078
+2015,Philadelphia,Burglary,1862,1658
+2015,Philadelphia,Fraud,3648,1766
+2015,Philadelphia,Robbery,2613,1468
+2015,Philadelphia,Vehicle Theft,897,400
+2015,Philadelphia,Homicide,3959,2722
+2015,Philadelphia,Drug Offense,3136,2708
+2015,Phoenix,Assault,1778,1105
+2015,Phoenix,Burglary,1440,797
+2015,Phoenix,Fraud,4216,3472
+2015,Phoenix,Robbery,3378,1431
+2015,Phoenix,Vehicle Theft,4439,3480
+2015,Phoenix,Homicide,1288,1029
+2015,Phoenix,Drug Offense,539,247
+2015,San Antonio,Assault,3218,1482
+2015,San Antonio,Burglary,788,659
+2015,San Antonio,Fraud,783,497
+2015,San Antonio,Robbery,1319,539
+2015,San Antonio,Vehicle Theft,4795,2581
+2015,San Antonio,Homicide,3031,1970
+2015,San Antonio,Drug Offense,1416,756
+2015,San Diego,Assault,2415,1845
+2015,San Diego,Burglary,1515,615
+2015,San Diego,Fraud,2396,1527
+2015,San Diego,Robbery,930,716
+2015,San Diego,Vehicle Theft,3150,1359
+2015,San Diego,Homicide,2091,1283
+2015,San Diego,Drug Offense,716,440
+2015,Dallas,Assault,2681,1766
+2015,Dallas,Burglary,1766,1247
+2015,Dallas,Fraud,2660,1915
+2015,Dallas,Robbery,2918,1451
+2015,Dallas,Vehicle Theft,4284,1816
+2015,Dallas,Homicide,4549,3896
+2015,Dallas,Drug Offense,3329,1805
+2015,San Jose,Assault,570,432
+2015,San Jose,Burglary,1632,1283
+2015,San Jose,Fraud,4789,3350
+2015,San Jose,Robbery,2354,1399
+2015,San Jose,Vehicle Theft,1860,1519
+2015,San Jose,Homicide,4537,2330
+2015,San Jose,Drug Offense,2521,1766
+2016,New York,Assault,1698,1203
+2016,New York,Burglary,3880,2548
+2016,New York,Fraud,891,481
+2016,New York,Robbery,1034,859
+2016,New York,Vehicle Theft,2057,1113
+2016,New York,Homicide,2821,2215
+2016,New York,Drug Offense,1274,597
+2016,Los Angeles,Assault,3222,1954
+2016,Los Angeles,Burglary,935,471
+2016,Los Angeles,Fraud,558,339
+2016,Los Angeles,Robbery,2971,2062
+2016,Los Angeles,Vehicle Theft,4970,2387
+2016,Los Angeles,Homicide,4758,2473
+2016,Los Angeles,Drug Offense,1567,729
+2016,Chicago,Assault,1657,1405
+2016,Chicago,Burglary,1601,935
+2016,Chicago,Fraud,4085,3564
+2016,Chicago,Robbery,1977,1077
+2016,Chicago,Vehicle Theft,4023,2885
+2016,Chicago,Homicide,2483,1668
+2016,Chicago,Drug Offense,1034,907
+2016,Houston,Assault,2316,1619
+2016,Houston,Burglary,828,674
+2016,Houston,Fraud,4792,2781
+2016,Houston,Robbery,865,684
+2016,Houston,Vehicle Theft,4644,3708
+2016,Houston,Homicide,971,555
+2016,Houston,Drug Offense,2793,1725
+2016,Philadelphia,Assault,3128,2629
+2016,Philadelphia,Burglary,3909,1621
+2016,Philadelphia,Fraud,3914,2691
+2016,Philadelphia,Robbery,2086,944
+2016,Philadelphia,Vehicle Theft,1331,1156
+2016,Philadelphia,Homicide,3406,2881
+2016,Philadelphia,Drug Offense,2465,2109
+2016,Phoenix,Assault,2996,2632
+2016,Phoenix,Burglary,827,595
+2016,Phoenix,Fraud,2620,2255
+2016,Phoenix,Robbery,723,482
+2016,Phoenix,Vehicle Theft,2975,2240
+2016,Phoenix,Homicide,4643,3006
+2016,Phoenix,Drug Offense,1818,1047
+2016,San Antonio,Assault,1757,739
+2016,San Antonio,Burglary,2289,1607
+2016,San Antonio,Fraud,1913,1365
+2016,San Antonio,Robbery,4248,3244
+2016,San Antonio,Vehicle Theft,720,292
+2016,San Antonio,Homicide,2163,1443
+2016,San Antonio,Drug Offense,2167,1934
+2016,San Diego,Assault,1027,433
+2016,San Diego,Burglary,4139,2795
+2016,San Diego,Fraud,1897,1412
+2016,San Diego,Robbery,2605,1840
+2016,San Diego,Vehicle Theft,4605,2314
+2016,San Diego,Homicide,3817,2405
+2016,San Diego,Drug Offense,2842,1888
+2016,Dallas,Assault,1447,1226
+2016,Dallas,Burglary,4446,2107
+2016,Dallas,Fraud,3410,2512
+2016,Dallas,Robbery,1136,875
+2016,Dallas,Vehicle Theft,4439,2945
+2016,Dallas,Homicide,3723,1672
+2016,Dallas,Drug Offense,4659,1884
+2016,San Jose,Assault,4584,3345
+2016,San Jose,Burglary,4950,3106
+2016,San Jose,Fraud,3562,1938
+2016,San Jose,Robbery,3657,2777
+2016,San Jose,Vehicle Theft,2631,1293
+2016,San Jose,Homicide,1271,1001
+2016,San Jose,Drug Offense,3388,2465
+2017,New York,Assault,2556,1597
+2017,New York,Burglary,3197,1655
+2017,New York,Fraud,1390,694
+2017,New York,Robbery,557,296
+2017,New York,Vehicle Theft,4087,3560
+2017,New York,Homicide,2850,1520
+2017,New York,Drug Offense,1910,1314
+2017,Los Angeles,Assault,893,655
+2017,Los Angeles,Burglary,3825,1941
+2017,Los Angeles,Fraud,4966,2710
+2017,Los Angeles,Robbery,3561,1995
+2017,Los Angeles,Vehicle Theft,1607,1221
+2017,Los Angeles,Homicide,1970,1634
+2017,Los Angeles,Drug Offense,3506,2135
+2017,Chicago,Assault,4063,1761
+2017,Chicago,Burglary,4451,1931
+2017,Chicago,Fraud,4467,2181
+2017,Chicago,Robbery,2130,1339
+2017,Chicago,Vehicle Theft,4092,2563
+2017,Chicago,Homicide,939,773
+2017,Chicago,Drug Offense,2791,1782
+2017,Houston,Assault,2441,1405
+2017,Houston,Burglary,3384,1355
+2017,Houston,Fraud,4231,2972
+2017,Houston,Robbery,2710,1708
+2017,Houston,Vehicle Theft,2192,1907
+2017,Houston,Homicide,3325,2164
+2017,Houston,Drug Offense,3900,3262
+2017,Philadelphia,Assault,1370,889
+2017,Philadelphia,Burglary,4787,2180
+2017,Philadelphia,Fraud,751,655
+2017,Philadelphia,Robbery,2517,1113
+2017,Philadelphia,Vehicle Theft,4516,2197
+2017,Philadelphia,Homicide,2374,1661
+2017,Philadelphia,Drug Offense,3358,2538
+2017,Phoenix,Assault,1931,843
+2017,Phoenix,Burglary,3363,1567
+2017,Phoenix,Fraud,4843,3064
+2017,Phoenix,Robbery,2358,1463
+2017,Phoenix,Vehicle Theft,896,589
+2017,Phoenix,Homicide,1679,971
+2017,Phoenix,Drug Offense,4971,2472
+2017,San Antonio,Assault,4415,3466
+2017,San Antonio,Burglary,2323,2037
+2017,San Antonio,Fraud,568,460
+2017,San Antonio,Robbery,3870,1590
+2017,San Antonio,Vehicle Theft,1772,754
+2017,San Antonio,Homicide,4568,3798
+2017,San Antonio,Drug Offense,3514,2396
+2017,San Diego,Assault,4730,2230
+2017,San Diego,Burglary,3875,1856
+2017,San Diego,Fraud,1213,533
+2017,San Diego,Robbery,1452,816
+2017,San Diego,Vehicle Theft,1416,604
+2017,San Diego,Homicide,3762,3380
+2017,San Diego,Drug Offense,3457,1784
+2017,Dallas,Assault,4436,3070
+2017,Dallas,Burglary,4234,3687
+2017,Dallas,Fraud,3299,2504
+2017,Dallas,Robbery,1127,1007
+2017,Dallas,Vehicle Theft,756,621
+2017,Dallas,Homicide,3510,2044
+2017,Dallas,Drug Offense,3504,2581
+2017,San Jose,Assault,3425,1479
+2017,San Jose,Burglary,1337,1052
+2017,San Jose,Fraud,4544,3488
+2017,San Jose,Robbery,642,304
+2017,San Jose,Vehicle Theft,4586,2657
+2017,San Jose,Homicide,2200,1220
+2017,San Jose,Drug Offense,1629,689
+2018,New York,Assault,2241,1981
+2018,New York,Burglary,1754,1416
+2018,New York,Fraud,3226,2834
+2018,New York,Robbery,2700,2036
+2018,New York,Vehicle Theft,3412,2666
+2018,New York,Homicide,4019,2867
+2018,New York,Drug Offense,991,676
+2018,Los Angeles,Assault,2239,1527
+2018,Los Angeles,Burglary,720,377
+2018,Los Angeles,Fraud,1605,1275
+2018,Los Angeles,Robbery,2780,1598
+2018,Los Angeles,Vehicle Theft,2645,1540
+2018,Los Angeles,Homicide,4780,3008
+2018,Los Angeles,Drug Offense,4611,3353
+2018,Chicago,Assault,3690,2028
+2018,Chicago,Burglary,4205,2587
+2018,Chicago,Fraud,588,432
+2018,Chicago,Robbery,2917,1705
+2018,Chicago,Vehicle Theft,646,468
+2018,Chicago,Homicide,3973,3201
+2018,Chicago,Drug Offense,3271,2917
+2018,Houston,Assault,4276,2014
+2018,Houston,Burglary,3064,2226
+2018,Houston,Fraud,1479,792
+2018,Houston,Robbery,964,490
+2018,Houston,Vehicle Theft,4942,2223
+2018,Houston,Homicide,2350,1276
+2018,Houston,Drug Offense,3169,2715
+2018,Philadelphia,Assault,4174,2200
+2018,Philadelphia,Burglary,4872,3909
+2018,Philadelphia,Fraud,3366,2651
+2018,Philadelphia,Robbery,2030,855
+2018,Philadelphia,Vehicle Theft,1454,784
+2018,Philadelphia,Homicide,4113,3127
+2018,Philadelphia,Drug Offense,2631,2191
+2018,Phoenix,Assault,572,281
+2018,Phoenix,Burglary,1486,1072
+2018,Phoenix,Fraud,3735,2731
+2018,Phoenix,Robbery,4896,2042
+2018,Phoenix,Vehicle Theft,996,643
+2018,Phoenix,Homicide,3508,3131
+2018,Phoenix,Drug Offense,960,391
+2018,San Antonio,Assault,1664,725
+2018,San Antonio,Burglary,1604,811
+2018,San Antonio,Fraud,4651,1894
+2018,San Antonio,Robbery,3336,2462
+2018,San Antonio,Vehicle Theft,2721,1865
+2018,San Antonio,Homicide,1190,713
+2018,San Antonio,Drug Offense,1340,807
+2018,San Diego,Assault,4509,1818
+2018,San Diego,Burglary,1541,979
+2018,San Diego,Fraud,2392,1463
+2018,San Diego,Robbery,2538,2066
+2018,San Diego,Vehicle Theft,3959,3442
+2018,San Diego,Homicide,4133,2748
+2018,San Diego,Drug Offense,1901,1532
+2018,Dallas,Assault,2500,1172
+2018,Dallas,Burglary,2738,1364
+2018,Dallas,Fraud,1396,775
+2018,Dallas,Robbery,4103,2401
+2018,Dallas,Vehicle Theft,4143,3705
+2018,Dallas,Homicide,3879,2848
+2018,Dallas,Drug Offense,4436,2090
+2018,San Jose,Assault,3308,1491
+2018,San Jose,Burglary,1194,545
+2018,San Jose,Fraud,2270,1693
+2018,San Jose,Robbery,3920,1977
+2018,San Jose,Vehicle Theft,4841,3575
+2018,San Jose,Homicide,4672,1941
+2018,San Jose,Drug Offense,2510,1057
+2019,New York,Assault,3425,2802
+2019,New York,Burglary,2494,1052
+2019,New York,Fraud,880,654
+2019,New York,Robbery,734,318
+2019,New York,Vehicle Theft,1803,1137
+2019,New York,Homicide,4928,4198
+2019,New York,Drug Offense,3613,2769
+2019,Los Angeles,Assault,3537,1913
+2019,Los Angeles,Burglary,541,383
+2019,Los Angeles,Fraud,828,427
+2019,Los Angeles,Robbery,1986,1684
+2019,Los Angeles,Vehicle Theft,1686,1349
+2019,Los Angeles,Homicide,3746,2473
+2019,Los Angeles,Drug Offense,2137,1539
+2019,Chicago,Assault,502,386
+2019,Chicago,Burglary,4654,3075
+2019,Chicago,Fraud,2367,1322
+2019,Chicago,Robbery,1853,939
+2019,Chicago,Vehicle Theft,1008,416
+2019,Chicago,Homicide,4947,2022
+2019,Chicago,Drug Offense,504,297
+2019,Houston,Assault,3480,2962
+2019,Houston,Burglary,552,341
+2019,Houston,Fraud,4336,2329
+2019,Houston,Robbery,1404,1006
+2019,Houston,Vehicle Theft,2348,1230
+2019,Houston,Homicide,2836,1774
+2019,Houston,Drug Offense,4243,1855
+2019,Philadelphia,Assault,4068,3517
+2019,Philadelphia,Burglary,2645,1212
+2019,Philadelphia,Fraud,3403,1709
+2019,Philadelphia,Robbery,2673,1402
+2019,Philadelphia,Vehicle Theft,2585,1832
+2019,Philadelphia,Homicide,4855,3211
+2019,Philadelphia,Drug Offense,4954,3042
+2019,Phoenix,Assault,575,503
+2019,Phoenix,Burglary,644,282
+2019,Phoenix,Fraud,1446,937
+2019,Phoenix,Robbery,3300,1565
+2019,Phoenix,Vehicle Theft,998,643
+2019,Phoenix,Homicide,1809,732
+2019,Phoenix,Drug Offense,2430,1263
+2019,San Antonio,Assault,2214,912
+2019,San Antonio,Burglary,979,656
+2019,San Antonio,Fraud,2879,1533
+2019,San Antonio,Robbery,1669,1210
+2019,San Antonio,Vehicle Theft,711,306
+2019,San Antonio,Homicide,904,797
+2019,San Antonio,Drug Offense,1126,564
+2019,San Diego,Assault,1888,810
+2019,San Diego,Burglary,2413,1230
+2019,San Diego,Fraud,1226,673
+2019,San Diego,Robbery,1122,710
+2019,San Diego,Vehicle Theft,2787,2409
+2019,San Diego,Homicide,1986,1647
+2019,San Diego,Drug Offense,3618,2386
+2019,Dallas,Assault,4467,3944
+2019,Dallas,Burglary,4369,2064
+2019,Dallas,Fraud,4995,2594
+2019,Dallas,Robbery,2767,2405
+2019,Dallas,Vehicle Theft,4405,2981
+2019,Dallas,Homicide,1870,1342
+2019,Dallas,Drug Offense,4490,3853
+2019,San Jose,Assault,2998,2483
+2019,San Jose,Burglary,2100,1107
+2019,San Jose,Fraud,3430,1380
+2019,San Jose,Robbery,2756,1173
+2019,San Jose,Vehicle Theft,2684,1801
+2019,San Jose,Homicide,4711,3417
+2019,San Jose,Drug Offense,4035,3480
+2020,New York,Assault,2755,1998
+2020,New York,Burglary,1226,893
+2020,New York,Fraud,3965,2326
+2020,New York,Robbery,4883,3697
+2020,New York,Vehicle Theft,2537,1857
+2020,New York,Homicide,3316,2622
+2020,New York,Drug Offense,1558,908
+2020,Los Angeles,Assault,1451,874
+2020,Los Angeles,Burglary,844,722
+2020,Los Angeles,Fraud,4925,3531
+2020,Los Angeles,Robbery,1331,749
+2020,Los Angeles,Vehicle Theft,2255,916
+2020,Los Angeles,Homicide,4974,4419
+2020,Los Angeles,Drug Offense,1625,691
+2020,Chicago,Assault,636,463
+2020,Chicago,Burglary,4815,3308
+2020,Chicago,Fraud,3724,2496
+2020,Chicago,Robbery,562,403
+2020,Chicago,Vehicle Theft,1661,771
+2020,Chicago,Homicide,995,480
+2020,Chicago,Drug Offense,941,676
+2020,Houston,Assault,3417,2070
+2020,Houston,Burglary,4139,3660
+2020,Houston,Fraud,4287,3631
+2020,Houston,Robbery,3255,1939
+2020,Houston,Vehicle Theft,2876,2564
+2020,Houston,Homicide,1154,616
+2020,Houston,Drug Offense,4019,2935
+2020,Philadelphia,Assault,4448,3625
+2020,Philadelphia,Burglary,1857,1277
+2020,Philadelphia,Fraud,1685,1440
+2020,Philadelphia,Robbery,2004,1317
+2020,Philadelphia,Vehicle Theft,2124,1494
+2020,Philadelphia,Homicide,982,562
+2020,Philadelphia,Drug Offense,570,245
+2020,Phoenix,Assault,1836,876
+2020,Phoenix,Burglary,662,372
+2020,Phoenix,Fraud,3375,1365
+2020,Phoenix,Robbery,3927,3292
+2020,Phoenix,Vehicle Theft,4923,2449
+2020,Phoenix,Homicide,601,273
+2020,Phoenix,Drug Offense,2554,1378
+2020,San Antonio,Assault,2190,1364
+2020,San Antonio,Burglary,2482,1099
+2020,San Antonio,Fraud,4257,3141
+2020,San Antonio,Robbery,4784,3145
+2020,San Antonio,Vehicle Theft,1195,845
+2020,San Antonio,Homicide,4210,2445
+2020,San Antonio,Drug Offense,3309,2054
+2020,San Diego,Assault,3020,2680
+2020,San Diego,Burglary,4228,1971
+2020,San Diego,Fraud,950,544
+2020,San Diego,Robbery,4440,3628
+2020,San Diego,Vehicle Theft,4968,4018
+2020,San Diego,Homicide,2446,1625
+2020,San Diego,Drug Offense,2070,1607
+2020,Dallas,Assault,4227,2138
+2020,Dallas,Burglary,2368,1562
+2020,Dallas,Fraud,2311,1962
+2020,Dallas,Robbery,1904,853
+2020,Dallas,Vehicle Theft,631,442
+2020,Dallas,Homicide,3274,1952
+2020,Dallas,Drug Offense,1641,679
+2020,San Jose,Assault,1663,1341
+2020,San Jose,Burglary,2236,905
+2020,San Jose,Fraud,2167,1392
+2020,San Jose,Robbery,3192,2293
+2020,San Jose,Vehicle Theft,4570,3128
+2020,San Jose,Homicide,3430,1812
+2020,San Jose,Drug Offense,2930,1375
